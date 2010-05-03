@@ -1,0 +1,1654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<events artist="Cher" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" total="33">
+    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295595</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sun, 18 Apr 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295595</tag>    
+  <url>http://www.last.fm/event/1295595+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295595/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295586</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Tue, 20 Apr 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295586</tag>    
+  <url>http://www.last.fm/event/1295586+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295586/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295601</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Wed, 21 Apr 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295601</tag>    
+  <url>http://www.last.fm/event/1295601+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295601/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295591</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sat, 24 Apr 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295591</tag>    
+  <url>http://www.last.fm/event/1295591+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295591/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>pop</tag>
+      <tag>dance</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295582</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sun, 25 Apr 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295582</tag>    
+  <url>http://www.last.fm/event/1295582+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295582/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1345725</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Tue, 27 Apr 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1345725</tag>    
+  <url>http://www.last.fm/event/1345725+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1345725/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1345726</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Wed, 28 Apr 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>1</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1345726</tag>    
+  <url>http://www.last.fm/event/1345726+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1345726/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>pop</tag>
+      <tag>dance</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295597</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sat, 08 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295597</tag>    
+  <url>http://www.last.fm/event/1295597+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295597/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295587</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sun, 09 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295587</tag>    
+  <url>http://www.last.fm/event/1295587+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295587/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295602</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Tue, 11 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295602</tag>    
+  <url>http://www.last.fm/event/1295602+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295602/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295592</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Wed, 12 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295592</tag>    
+  <url>http://www.last.fm/event/1295592+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295592/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>pop</tag>
+      <tag>dance</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295583</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sat, 15 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295583</tag>    
+  <url>http://www.last.fm/event/1295583+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295583/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295598</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sun, 16 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>1</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295598</tag>    
+  <url>http://www.last.fm/event/1295598+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295598/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295588</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Tue, 18 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295588</tag>    
+  <url>http://www.last.fm/event/1295588+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295588/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295604</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Wed, 19 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295604</tag>    
+  <url>http://www.last.fm/event/1295604+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295604/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>pop</tag>
+      <tag>dance</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295594</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sat, 22 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295594</tag>    
+  <url>http://www.last.fm/event/1295594+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295594/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295585</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sun, 23 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295585</tag>    
+  <url>http://www.last.fm/event/1295585+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295585/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295600</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Tue, 25 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295600</tag>    
+  <url>http://www.last.fm/event/1295600+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295600/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295590</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Wed, 26 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295590</tag>    
+  <url>http://www.last.fm/event/1295590+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295590/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295606</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sat, 29 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>1</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295606</tag>    
+  <url>http://www.last.fm/event/1295606+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295606/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>pop</tag>
+      <tag>dance</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1295596</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sun, 30 May 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1295596</tag>    
+  <url>http://www.last.fm/event/1295596+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1295596/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1449158</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Tue, 15 Jun 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1449158</tag>    
+  <url>http://www.last.fm/event/1449158+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1449158/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>pop</tag>
+      <tag>dance</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1449153</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Wed, 16 Jun 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1449153</tag>    
+  <url>http://www.last.fm/event/1449153+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1449153/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1449149</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sat, 19 Jun 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1449149</tag>    
+  <url>http://www.last.fm/event/1449149+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1449149/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1449156</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sun, 20 Jun 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1449156</tag>    
+  <url>http://www.last.fm/event/1449156+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1449156/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1449152</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Tue, 22 Jun 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1449152</tag>    
+  <url>http://www.last.fm/event/1449152+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1449152/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1449160</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Wed, 23 Jun 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1449160</tag>    
+  <url>http://www.last.fm/event/1449160+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1449160/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>pop</tag>
+      <tag>dance</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1449155</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sat, 26 Jun 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1449155</tag>    
+  <url>http://www.last.fm/event/1449155+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1449155/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1449151</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sun, 27 Jun 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1449151</tag>    
+  <url>http://www.last.fm/event/1449151+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1449151/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1449159</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Tue, 29 Jun 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1449159</tag>    
+  <url>http://www.last.fm/event/1449159+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1449159/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1449154</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Wed, 30 Jun 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1449154</tag>    
+  <url>http://www.last.fm/event/1449154+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1449154/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1449150</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sat, 03 Jul 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1449150</tag>    
+  <url>http://www.last.fm/event/1449150+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1449150/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>female vocalists</tag>
+      <tag>80s</tag>
+      <tag>cher</tag>
+    </tags>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1449157</id>
+  <title>Cher</title>
+  <artists>
+    <artist>Cher</artist>
+    <headliner>Cher</headliner>
+  </artists>
+  <venue>
+    <id>8912825</id>
+    <name>The Colosseum At Caesars Palace</name>
+    <location>
+      <city>Las Vegas(, NV)</city>
+      <country>United States</country>
+      <street>3570 Las Vegas Blvd South</street>
+      <postalcode>89109</postalcode>
+      <geo:point>
+         <geo:lat>36.116143</geo:lat>
+         <geo:long>-115.176416</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8912825+The+Colosseum+At+Caesars+Palace</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sun, 04 Jul 2010 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/114168.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/114168.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/114168.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/114168.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1449157</tag>    
+  <url>http://www.last.fm/event/1449157+Cher</url>
+  <website></website>
+  <tickets>
+    <ticket supplier="TicketMaster">http://www.last.fm/affiliate/byid/29/1449157/12/</ticket>
+  </tickets>
+  <cancelled>0</cancelled>
+    <tags>
+      <tag>dance</tag>
+      <tag>pop</tag>
+      <tag>80s</tag>
+      <tag>female vocalists</tag>
+      <tag>cher</tag>
+    </tags>
+  </event></events></lfm>

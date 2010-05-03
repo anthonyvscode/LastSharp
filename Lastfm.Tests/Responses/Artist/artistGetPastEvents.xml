@@ -1,0 +1,3207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<events artist="Blur" url="http://www.last.fm/music/Blur/+events" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" page="1" perPage="50" total="204" totalPages="5">
+    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>701873</id>
+  <title>T in the Park 2009</title>
+  <artists>
+    <artist>The Killers</artist>
+    <artist>Franz Ferdinand</artist>
+    <artist>Snow Patrol</artist>
+    <artist>Bloc Party</artist>
+    <artist>Kings of Leon</artist>
+    <artist>Blur</artist>
+    <artist>Lady GaGa</artist>
+    <artist>Keane</artist>
+    <artist>Yeah Yeah Yeahs</artist>
+    <artist>Nine Inch Nails</artist>
+    <artist>Lily Allen</artist>
+    <artist>Katy Perry</artist>
+    <artist>Razorlight</artist>
+    <artist>Jason Mraz</artist>
+    <artist>Regina Spektor</artist>
+    <artist>The Ting Tings</artist>
+    <artist>Maxïmo Park</artist>
+    <artist>TV on the Radio</artist>
+    <artist>The Mars Volta</artist>
+    <artist>Doves</artist>
+    <artist>of Montreal</artist>
+    <artist>Mogwai</artist>
+    <artist>The Game</artist>
+    <artist>James Morrison</artist>
+    <artist>Nick Cave and the Bad Seeds</artist>
+    <artist>Pet Shop Boys</artist>
+    <artist>Manic Street Preachers</artist>
+    <artist>M83</artist>
+    <artist>Starsailor</artist>
+    <artist>The Streets</artist>
+    <artist>Elbow</artist>
+    <artist>Jane's Addiction</artist>
+    <artist>Paolo Nutini</artist>
+    <artist>Crystal Castles</artist>
+    <artist>Pendulum</artist>
+    <artist>Camera Obscura</artist>
+    <artist>Simian Mobile Disco</artist>
+    <artist>Calvin Harris</artist>
+    <artist>Florence + The Machine</artist>
+    <artist>Patrick Wolf</artist>
+    <artist>The Maccabees</artist>
+    <artist>Passion Pit</artist>
+    <artist>White Lies</artist>
+    <artist>Foals</artist>
+    <artist>The View</artist>
+    <artist>Friendly Fires</artist>
+    <artist>Ladyhawke</artist>
+    <artist>Tiga</artist>
+    <artist>Eagles of Death Metal</artist>
+    <artist>The Specials</artist>
+    <artist>Little Boots</artist>
+    <artist>Felix da Housecat</artist>
+    <artist>The Script</artist>
+    <artist>James</artist>
+    <artist>Boys Noize</artist>
+    <artist>Jamie T</artist>
+    <artist>Idlewild</artist>
+    <artist>The Horrors</artist>
+    <artist>Glasvegas</artist>
+    <artist>Squeeze</artist>
+    <artist>The Saturdays</artist>
+    <artist>Noisettes</artist>
+    <artist>Cassidy</artist>
+    <artist>The Courteeners</artist>
+    <artist>Laurent Garnier</artist>
+    <artist>Metronomy</artist>
+    <artist>The Gaslight Anthem</artist>
+    <artist>Mumford &amp; Sons</artist>
+    <artist>The Virgins</artist>
+    <artist>Priscilla Ahn</artist>
+    <artist>The Airborne Toxic Event</artist>
+    <artist>Peter Doherty</artist>
+    <artist>Jack Peñate</artist>
+    <artist>Edwyn Collins</artist>
+    <artist>Carolina Liar</artist>
+    <artist>The Twang</artist>
+    <artist>The Twilight Sad</artist>
+    <artist>Delphic</artist>
+    <artist>Daniel Merriweather</artist>
+    <artist>You Me At Six</artist>
+    <artist>The Big Pink</artist>
+    <artist>2 Many DJ's</artist>
+    <artist>Hockey</artist>
+    <artist>Seasick Steve</artist>
+    <artist>Jeff Mills</artist>
+    <artist>Green Velvet</artist>
+    <artist>Dave Clarke</artist>
+    <artist>Slam</artist>
+    <artist>The Dykeenies</artist>
+    <artist>The Hours</artist>
+    <artist>Dananananaykroyd</artist>
+    <artist>Silicone Soul</artist>
+    <artist>We Were Promised Jetpacks</artist>
+    <artist>Joris Voorn</artist>
+    <artist>Krafty Kuts</artist>
+    <artist>Filthy Dukes</artist>
+    <artist>The Answering Machine</artist>
+    <artist>Gary Go</artist>
+    <artist>Mr Scruff</artist>
+    <artist>Fight Like Apes</artist>
+    <artist>Wallis Bird</artist>
+    <artist>Go:Audio</artist>
+    <artist>Broken Records</artist>
+    <artist>Iain Archer</artist>
+    <artist>Funk D'Void</artist>
+    <artist>Ben Sims</artist>
+    <artist>The Phantom Band</artist>
+    <artist>The Tunics</artist>
+    <artist>Streetlife DJs</artist>
+    <artist>Sucioperro</artist>
+    <artist>Twin Atlantic</artist>
+    <artist>That Petrol Emotion</artist>
+    <artist>Unicorn Kid</artist>
+    <artist>Dinosaur Pile-up</artist>
+    <artist>Claude Von Stroke</artist>
+    <artist>In Case of Fire</artist>
+    <artist>General Fiasco</artist>
+    <artist>Pulled Apart By Horses</artist>
+    <artist>Toddla T</artist>
+    <artist>My Luminaries</artist>
+    <artist>Barn Owl</artist>
+    <artist>Pearl And The Puppets</artist>
+    <artist>The Law</artist>
+    <artist>Lowkey</artist>
+    <artist>Vagabond</artist>
+    <artist>Tommy Reilly</artist>
+    <artist>The Locals</artist>
+    <artist>Hip parade</artist>
+    <artist>Telegraphs</artist>
+    <artist>Jaguar Skills</artist>
+    <artist>Milk Kan</artist>
+    <artist>Findo Gask</artist>
+    <artist>Young Fathers</artist>
+    <artist>A Skillz</artist>
+    <artist>Orphans &amp; Vandals</artist>
+    <artist>Will And The People</artist>
+    <artist>Bjorn Again</artist>
+    <artist>Decimals</artist>
+    <artist>Horse Meat Disco</artist>
+    <artist>BeardyMan</artist>
+    <artist>My Cousin I Bid You Farewell</artist>
+    <artist>Maple Leaves</artist>
+    <artist>Paper Planes</artist>
+    <artist>The French Quarter</artist>
+    <artist>Homework</artist>
+    <artist>Jill Jackson</artist>
+    <artist>Idiot Proof</artist>
+    <artist>Trapped In Kansas</artist>
+    <artist>Hitchcock</artist>
+    <artist>Punch &amp; the Apostles</artist>
+    <artist>Popolo</artist>
+    <artist>Leni Ward</artist>
+    <artist>Unabombers</artist>
+    <artist>Tango In The Attic</artist>
+    <artist>Ezra Bang &amp; Hot Machine</artist>
+    <artist>Brother Louis Collective</artist>
+    <artist>Danananaykroyd</artist>
+    <artist>cat house</artist>
+    <artist>Dead Boy Robotics</artist>
+    <artist>ming ming and the ching chings</artist>
+    <artist>Seal Cub Clubbing Club</artist>
+    <artist>Little Eskimos</artist>
+    <artist>Bronto Skylift</artist>
+    <artist>Goldierocks</artist>
+    <artist>Tokyoblu</artist>
+    <artist>Healthy Minds Collapse</artist>
+    <artist>Alto Elite</artist>
+    <artist>Gong Fei</artist>
+    <artist>Mike Nisbet</artist>
+    <artist>Dally King</artist>
+    <artist>Gareth Sommerville</artist>
+    <artist>Disco Bloodbath DJs</artist>
+    <artist>Pav on Percussion</artist>
+    <headliner>The Killers</headliner>
+  </artists>
+  <venue>
+    <id>8781944</id>
+    <name>Balado</name>
+    <location>
+      <city>Kinross</city>
+      <country>United Kingdom</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>56.2</geo:lat>
+         <geo:long>-3.4166667</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8781944+Balado</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/24603017.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/24603017.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/24603017.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/24603017.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/24603017/Balado+T_in_The_Park_2002.jpg</image>
+  </venue>  <startDate>Fri, 10 Jul 2009 13:12:01</startDate>
+  <endDate>Sun, 12 Jul 2009 13:12:01</endDate>
+  <description><![CDATA[<div class="bbcode">T in the Park 2009 returns to Balado with a fantastic lineup - all the latest information is at <a href="http://www.tinthepark.com" rel="nofollow">tinthepark.com</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/30403415.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/30403415.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/30403415.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/30403415.jpg</image>
+  <attendance>601</attendance>
+  <reviews>3</reviews>
+  <tag>lastfm:event=701873</tag>    
+  <url>http://www.last.fm/event/701873+T+in+the+Park+2009</url>
+  <website>http://www.tinthepark.com</website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>716993</id>
+  <title>Oxegen 2009</title>
+  <artists>
+    <artist>The Killers</artist>
+    <artist>Snow Patrol</artist>
+    <artist>Bloc Party</artist>
+    <artist>Kings of Leon</artist>
+    <artist>Blur</artist>
+    <artist>Lady GaGa</artist>
+    <artist>Keane</artist>
+    <artist>Yeah Yeah Yeahs</artist>
+    <artist>Nine Inch Nails</artist>
+    <artist>Lily Allen</artist>
+    <artist>Katy Perry</artist>
+    <artist>Razorlight</artist>
+    <artist>Jason Mraz</artist>
+    <artist>Regina Spektor</artist>
+    <artist>The Ting Tings</artist>
+    <artist>Maxïmo Park</artist>
+    <artist>TV on the Radio</artist>
+    <artist>The Mars Volta</artist>
+    <artist>Doves</artist>
+    <artist>of Montreal</artist>
+    <artist>Mogwai</artist>
+    <artist>The Game</artist>
+    <artist>James Morrison</artist>
+    <artist>Nick Cave and the Bad Seeds</artist>
+    <artist>Pet Shop Boys</artist>
+    <artist>Manic Street Preachers</artist>
+    <artist>M83</artist>
+    <artist>Elbow</artist>
+    <artist>Jane's Addiction</artist>
+    <artist>Paolo Nutini</artist>
+    <artist>Crystal Castles</artist>
+    <artist>Digitalism</artist>
+    <artist>Pendulum</artist>
+    <artist>La Roux</artist>
+    <artist>Florence + The Machine</artist>
+    <artist>White Lies</artist>
+    <artist>Foals</artist>
+    <artist>Friendly Fires</artist>
+    <artist>Ladyhawke</artist>
+    <artist>Tiga</artist>
+    <artist>Eagles of Death Metal</artist>
+    <artist>The Specials</artist>
+    <artist>The Script</artist>
+    <artist>Ocean Colour Scene</artist>
+    <artist>James</artist>
+    <artist>God Is an Astronaut</artist>
+    <artist>Glasvegas</artist>
+    <artist>Squeeze</artist>
+    <artist>The Saturdays</artist>
+    <artist>Peter Doherty</artist>
+    <artist>Crookers</artist>
+    <artist>Daniel Merriweather</artist>
+    <artist>You Me At Six</artist>
+    <artist>2 Many DJ's</artist>
+    <artist>Hockey</artist>
+    <artist>The Hours</artist>
+    <artist>Dreadzone</artist>
+    <artist>And So I Watch You From Afar</artist>
+    <artist>Gary Go</artist>
+    <artist>Hudson Mohawke</artist>
+    <artist>Fight Like Apes</artist>
+    <artist>Wallis Bird</artist>
+    <artist>Aeroplane</artist>
+    <artist>Tom Middleton</artist>
+    <artist>Republic of Loose</artist>
+    <artist>Miss Kittin and The Hacker</artist>
+    <artist>Annie Mac</artist>
+    <artist>Bloody Beetroots</artist>
+    <artist>Swedish House Mafia</artist>
+    <artist>Angel Pier</artist>
+    <headliner>The Killers</headliner>
+  </artists>
+  <venue>
+    <id>8781144</id>
+    <name>Punchestown Racecourse</name>
+    <location>
+      <city>An Nás</city>
+      <country>Ireland</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>53.164912</geo:lat>
+         <geo:long>-6.820964</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8781144+Punchestown+Racecourse</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Fri, 10 Jul 2009 12:07:01</startDate>
+  <endDate>Sun, 12 Jul 2009 12:07:01</endDate>
+  <description><![CDATA[<div class="bbcode">Tickets for this year’s festival are on sale NOW and are priced at a 2008 price freeze of 224.50 Euro (incl. booking fee) for 3 day including camping ticket. For an extra 20 Euro fans can purchase a 4 day including camping ticket which will include Thursday campsite stay also.<br />
+<br />
+Tickets can be bought via our official ticket partner <a href="http://www.ticketmaster.ie" rel="nofollow">www.ticketmaster.ie</a><br />
+<br />
+Europe’s Favourite Rock &amp; Roll Weekend will be home to the very best in both new and seminal music this summer, taking place at Punchestown Racecourse, Naas, Co Kildare from 10th-12th July 2009 (subject to licence).<br />
+<br />
+With loads more artists yet to be announced fans have a lot to look forward to.<br />
+<br />
+Important ticket news for fans…<br />
+<br />
+Early Bird Reward…<br />
+As a special thank you to our most loyal fans, those who purchased Early Bird tickets before 31st December 08, OXEGEN will REWARD each of them with 20 Euro cashback on-site at OXEGEN or in advance at point of purchase.<br />
+<br />
+OXEGEN is subject to license and tickets are available on a first come first served basis. All ticket purchases for OXEGEN are limited to 4 per person – don’t forget that to encourage car pooling, one free car pass will be issued with every 4 tickets purchased.<br />
+<br />
+Check out oxegen.ie for all the latest line up announcements and festival updates as well as all the information you’ll need and make sure your OXEGEN 2009 is the best yet!<br />
+<br />
+As per 2008’s event, the following conditions still apply:<br />
+Strictly 17s and over only - ID required and will be checked vigorously before entry. Under 17s will only be admitted if accompanied by guardian/relative 25 years or over who will sign for and accept responsibility for said person. Policy will be strictly enforced - persons who purchase and ignore conditions will be refused entry with NO refund.<br />
+<br />
+Xbox Live Stage Times: Thur. 9 July 10pm – late<br />
+<br />
+* Fri. 10 July 2pm – late<br />
+* Sat. 11 July 2pm – late<br />
+* Sun. 12 July 2pm - late<br />
+<br />
+For further info check out: Facebook.com - XboxLiveStage, Twitter.com/XboxLiveStage<br />
+<br />
+<br />
+ECLECTIC METHOD<br />
+<br />
+*<br />
+<br />
+Dubbed “the future of nightclub entertainment”, Eclectic Method’s fans read like a ‘ho’s Who’ of musical innovation (Fatboy Slim, Gilles Peterson, Norman Jay to U2). Their unique take on mixing music video and film clips in the same way a DJ mixes records is taking the music world by storm.<br />
+*<br />
+<br />
+MTV were quick to recognise Eclectic Method’s bootlegging escapades which led to their involvement in a three series run of MTV Mash. <br />
+*<br />
+<br />
+Fatboy Slim brought them in to megamix his music videos as a bonus to his 2006 DVD &quot;Why Make Videos&quot;. U2 have called upon them to do multiple U2 video remixes after seeing an EM video on You Tube. <br />
+*<br />
+<br />
+Check out <a href="http://www.eclecticmethod.net" rel="nofollow">www.eclecticmethod.net</a> for video samples of their work.<br />
+<br />
+MTV UK will be the official broadcast partner for 2009. Billed as MTV Presents OXEGEN this underlines the broadcaster’s commitment to support live music events as part of its initiative, Music’s Biggest Fan which launched in 2008. MTV UK’s support will include both TV and web content of the festival.<br />
+<br />
+Switch on to MTV…<br />
+<br />
+MTV UK has enjoyed a long and successful association with OXEGEN since 2005 and the broadcaster’s involvement this year builds on this relationship.<br />
+<br />
+“It’s great to be returning to Punchestown this year as the official broadcast partner for OXEGEN,” says Richard Godfrey, Senior Vice President, Music &amp;Production, MTV Networks UK &amp; Ireland. “The line-up, as ever, is phenomenal, and it promises to be a fantastic event.”<br />
+<br />
+OXEGEN Weekend is planned across the MTV suite of channels on the 1st &amp; 2nd August…a chance for fans to re-live their classic festival moments. <br />
+Returning to OXEGEN 09…<br />
+<br />
+OXEGEN 2008 saw the introduction of Bui Bolg’s iconic OXEGEN giant ‘Stonehenge’-esque entrance archway and on site sculptures at the Punchestown. The guys at Bui Bolg have created the amazing props for our photocall today and will be back again at this year’s festival to produce some more exciting and crazy structures which will act as ‘site markers’. Their work uses pop art influences with super-sizing, cartoon like outlines and bright zingy colours to create bizarre inflatable artworks which will help festival-goers navigate around the site.<br />
+<br />
+Boutique Camping is back at OXEGEN 2009 in the Green Campsite which provides a more luxurious stay at Europe’s Favourite Rock &amp; Roll Weekend. The bespoke village area has its own showers, toilets and is conveniently located close to the parking areas. The campsite will once again be home to Yurts and Teepees provided by Tangerine Fields, award-winning and eco-friendly Myhabs and the Hobbit style Podpads. For more information check out oxegen.ie.<br />
+<br />
+Award Winning OXEGEN...<br />
+<br />
+Festival-goers had their say on which bands they wanted to play at their festival and, in a final victory for fan power, their choices were vindicated when fans from around Europe voted OXEGEN as ‘Best European Festival’ at the UK Festival Awards.<br />
+<br />
+In addition, 2008 saw OXEGEN become Ireland’s largest 100% CarbonNeutral event – an achievement recognised by The European Festival Association, YOUROPE, awarding OXEGEN its prestigious Green N Clean Award. OXEGEN is the first festival in Ireland to receive this award and one of only 18 festivals Europe wide.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/27964831.gif</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/27964831.gif</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/27964831.gif</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/27964831.gif</image>
+  <attendance>480</attendance>
+  <reviews>2</reviews>
+  <tag>lastfm:event=716993</tag>    
+  <url>http://www.last.fm/event/716993+Oxegen+2009</url>
+  <website>http://www.oxegen.ie</website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>976403</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8816256</id>
+    <name>Nuits de Fourvière</name>
+    <location>
+      <city>Lyon</city>
+      <country>France</country>
+      <street>5, rue de l'Antiquaille</street>
+      <postalcode>69005</postalcode>
+      <geo:point>
+         <geo:lat>45.759294</geo:lat>
+         <geo:long>4.821391</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8816256+Nuits+de+Fourvi%C3%A8re</url>
+    <website>http://www.nuitsdefourviere.fr/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/361085.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/361085.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/361085.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/361085.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/361085/Nuits+de+Fourvire.jpg</image>
+  </venue>  <startDate>Sun, 05 Jul 2009 21:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>75</attendance>
+  <reviews>3</reviews>
+  <tag>lastfm:event=976403</tag>    
+  <url>http://www.last.fm/event/976403+Blur+at+Nuits+de+Fourvi%C3%A8re+on+5+July+2009</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>860776</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Vampire Weekend</artist>
+    <artist>Florence + The Machine</artist>
+    <artist>Deerhoof</artist>
+    <artist>Amadou &amp; Mariam</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778470</id>
+    <name>Hyde Park</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Park Lane London</street>
+      <postalcode>W1Y 3DB</postalcode>
+      <geo:point>
+         <geo:lat>51.5</geo:lat>
+         <geo:long>-0.1166667</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778470+Hyde+Park</url>
+    <website>http://www.royalparks.org.uk/parks/hyde_park</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/381435.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/381435.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/381435.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/381435.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/381435/Hyde+Park.jpg</image>
+  </venue>  <startDate>Fri, 03 Jul 2009 16:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>924</attendance>
+  <reviews>6</reviews>
+  <tag>lastfm:event=860776</tag>    
+  <url>http://www.last.fm/event/860776+Blur+at+Hyde+Park+on+3+July+2009</url>
+  <website>http://music.livenation.co.uk/blur/</website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>864056</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Crystal Castles</artist>
+    <artist>Foals</artist>
+    <artist>Golden Silvers</artist>
+    <artist>Hypnotic Brass Ensemble</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778470</id>
+    <name>Hyde Park</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Park Lane London</street>
+      <postalcode>W1Y 3DB</postalcode>
+      <geo:point>
+         <geo:lat>51.5</geo:lat>
+         <geo:long>-0.1166667</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778470+Hyde+Park</url>
+    <website>http://www.royalparks.org.uk/parks/hyde_park</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/381435.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/381435.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/381435.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/381435.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/381435/Hyde+Park.jpg</image>
+  </venue>  <startDate>Thu, 02 Jul 2009 14:30:00</startDate>
+  <description><![CDATA[<div class="bbcode"><a href="http://music.livenation.co.uk/blur/" rel="nofollow">http://music.livenation.co.uk/blur/</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>797</attendance>
+  <reviews>6</reviews>
+  <tag>lastfm:event=864056</tag>    
+  <url>http://www.last.fm/event/864056+Blur+at+Hyde+Park+on+2+July+2009</url>
+  <website>http://www.setlist.fm/setlist/blur/2009/hyde-park-london-england-73d66ed5.html</website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>933393</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Klaxons</artist>
+    <artist>Florence + The Machine</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8777080</id>
+    <name>Manchester Evening News Arena</name>
+    <location>
+      <city>Manchester</city>
+      <country>United Kingdom</country>
+      <street>Victoria Station</street>
+      <postalcode>M3 1WY</postalcode>
+      <geo:point>
+         <geo:lat>53.488155</geo:lat>
+         <geo:long>-2.24405</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777080+Manchester+Evening+News+Arena</url>
+    <website>http://www.men-arena.com/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/31034.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/31034.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/31034.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/31034.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/31034/Manchester+Evening+News+Arena.jpg</image>
+  </venue>  <startDate>Fri, 26 Jun 2009 09:11:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>126</attendance>
+  <reviews>1</reviews>
+  <tag>lastfm:event=933393</tag>    
+  <url>http://www.last.fm/event/933393+Blur+at+Manchester+Evening+News+Arena+on+26+June+2009</url>
+  <website>http://www.blur.co.uk</website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1036559</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Joe Lean &amp; The Jing Jang Jong</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8989130</id>
+    <name>O2 Academy</name>
+    <location>
+      <city>Newcastle</city>
+      <country>United Kingdom</country>
+      <street>Westgate Rd</street>
+      <postalcode>NE1 1SW</postalcode>
+      <geo:point>
+         <geo:lat>54.97028</geo:lat>
+         <geo:long>-1.617839</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8989130+O2+Academy</url>
+    <website>http://www.o2academynewcastle.co.uk</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/35017015.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/35017015.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/35017015.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/35017015.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/35017015/O2+Academy+o2newcastle.jpg</image>
+  </venue>  <startDate>Thu, 25 Jun 2009 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>37</attendance>
+  <reviews>2</reviews>
+  <tag>lastfm:event=1036559</tag>    
+  <url>http://www.last.fm/event/1036559+Blur+at+O2+Academy+on+25+June+2009</url>
+  <website>http://www.setlist.fm/setlist/blur/2009/o2-academy-newcastle-newcastle-england-1bd6756c.html</website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>705315</id>
+  <title>Glastonbury Festival of Contemporary Performing Arts</title>
+  <artists>
+    <artist>Franz Ferdinand</artist>
+    <artist>Black Eyed Peas</artist>
+    <artist>Bloc Party</artist>
+    <artist>Blur</artist>
+    <artist>Lady GaGa</artist>
+    <artist>Yeah Yeah Yeahs</artist>
+    <artist>Kasabian</artist>
+    <artist>The Prodigy</artist>
+    <artist>Lily Allen</artist>
+    <artist>Bruce Springsteen</artist>
+    <artist>Jason Mraz</artist>
+    <artist>Regina Spektor</artist>
+    <artist>Neil Young</artist>
+    <artist>The Ting Tings</artist>
+    <artist>Maxïmo Park</artist>
+    <artist>David Guetta</artist>
+    <artist>Metric</artist>
+    <artist>Lamb</artist>
+    <artist>Doves</artist>
+    <artist>Klaxons</artist>
+    <artist>Brand New</artist>
+    <artist>Animal Collective</artist>
+    <artist>Nick Cave and the Bad Seeds</artist>
+    <artist>N*E*R*D</artist>
+    <artist>Cold War Kids</artist>
+    <artist>Supergrass</artist>
+    <artist>Jamie Cullum</artist>
+    <artist>The Futureheads</artist>
+    <artist>The Streets</artist>
+    <artist>Fleet Foxes</artist>
+    <artist>Bat for Lashes</artist>
+    <artist>The Rakes</artist>
+    <artist>Paolo Nutini</artist>
+    <artist>Echo &amp; The Bunnymen</artist>
+    <artist>Badly Drawn Boy</artist>
+    <artist>Pendulum</artist>
+    <artist>Emilíana Torrini</artist>
+    <artist>Peaches</artist>
+    <artist>Bon Iver</artist>
+    <artist>Four Tet</artist>
+    <artist>La Roux</artist>
+    <artist>M. Ward</artist>
+    <artist>Florence + The Machine</artist>
+    <artist>Eric Prydz</artist>
+    <artist>The Maccabees</artist>
+    <artist>Passion Pit</artist>
+    <artist>Art Brut</artist>
+    <artist>Tom Jones</artist>
+    <artist>The Wombats</artist>
+    <artist>White Lies</artist>
+    <artist>Madness</artist>
+    <artist>Mr. Scruff</artist>
+    <artist>The View</artist>
+    <artist>Friendly Fires</artist>
+    <artist>The Magic Numbers</artist>
+    <artist>Dizzee Rascal</artist>
+    <artist>Ladyhawke</artist>
+    <artist>Eagles of Death Metal</artist>
+    <artist>The Specials</artist>
+    <artist>Little Boots</artist>
+    <artist>Status Quo</artist>
+    <artist>The Script</artist>
+    <artist>Gabriella Cilmi</artist>
+    <artist>Newton Faulkner</artist>
+    <artist>Enter Shikari</artist>
+    <artist>Roots Manuva</artist>
+    <artist>DJ Food</artist>
+    <artist>Jamie T</artist>
+    <artist>Noah and the Whale</artist>
+    <artist>Crosby, Stills &amp; Nash</artist>
+    <artist>Just Jack</artist>
+    <artist>Deadmau5</artist>
+    <artist>The Horrors</artist>
+    <artist>Stereo MC's</artist>
+    <artist>Timo Maas</artist>
+    <artist>Glasvegas</artist>
+    <artist>Dirty Vegas</artist>
+    <artist>Will Young</artist>
+    <artist>Noisettes</artist>
+    <artist>Q-Tip</artist>
+    <artist>The Whip</artist>
+    <artist>British Sea Power</artist>
+    <artist>Tindersticks</artist>
+    <artist>Bombay Bicycle Club</artist>
+    <artist>Easy Star All-Stars</artist>
+    <artist>Shitdisco</artist>
+    <artist>Banco de Gaia</artist>
+    <artist>Marina &amp; the Diamonds</artist>
+    <artist>Jarvis Cocker</artist>
+    <artist>Frankmusik</artist>
+    <artist>Steel Pulse</artist>
+    <artist>Wiley</artist>
+    <artist>Metronomy</artist>
+    <artist>Horace Andy</artist>
+    <artist>Alela Diane</artist>
+    <artist>The Gaslight Anthem</artist>
+    <artist>Tinchy Stryder</artist>
+    <artist>Tunng</artist>
+    <artist>Reverend and The Makers</artist>
+    <artist>The Virgins</artist>
+    <artist>Amadou &amp; Mariam</artist>
+    <artist>Peter Doherty</artist>
+    <artist>Chase &amp; Status</artist>
+    <artist>Jack Peñate</artist>
+    <artist>The Dead Weather</artist>
+    <artist>Crookers</artist>
+    <artist>GoodBooks</artist>
+    <artist>Scott Matthews</artist>
+    <artist>Emmy the Great</artist>
+    <artist>The Rumble Strips</artist>
+    <artist>Fairport Convention</artist>
+    <artist>Layo &amp; Bushwacka!</artist>
+    <artist>Bruce Springsteen &amp; The E Street Band</artist>
+    <artist>Gong</artist>
+    <artist>Dodgy</artist>
+    <artist>The Egg</artist>
+    <artist>Erik Truffaz</artist>
+    <artist>Tinariwen</artist>
+    <artist>The Big Pink</artist>
+    <artist>Dan Black</artist>
+    <artist>Kate Walsh</artist>
+    <artist>2 Many DJ's</artist>
+    <artist>Hockey</artist>
+    <artist>The Boxer Rebellion</artist>
+    <artist>Khaled</artist>
+    <artist>Lisa Hannigan</artist>
+    <artist>Mr Hudson</artist>
+    <artist>Spinal Tap</artist>
+    <artist>East 17</artist>
+    <artist>The Puppini Sisters</artist>
+    <artist>Dan Le Sac vs Scroobius Pip</artist>
+    <artist>Slow Club</artist>
+    <artist>The Wonder Stuff</artist>
+    <artist>WhoMadeWho</artist>
+    <artist>Teddy Thompson</artist>
+    <artist>Jon Hopkins</artist>
+    <artist>Amanda Blank</artist>
+    <artist>Baaba Maal</artist>
+    <artist>Fucked Up</artist>
+    <artist>Freeland</artist>
+    <artist>Manu Dibango</artist>
+    <artist>Micachu</artist>
+    <artist>The Qemists</artist>
+    <artist>Beth Rowley</artist>
+    <artist>Lonnie Liston Smith</artist>
+    <artist>Rokia Traoré</artist>
+    <artist>Twisted Wheel</artist>
+    <artist>Dreadzone</artist>
+    <artist>Stanton Warriors</artist>
+    <artist>The Low Anthem</artist>
+    <artist>Ironik</artist>
+    <artist>We Have Band</artist>
+    <artist>DJ Yoda</artist>
+    <artist>Robyn Hitchcock</artist>
+    <artist>Krafty Kuts</artist>
+    <artist>Filthy Dukes</artist>
+    <artist>Alessi's Ark</artist>
+    <artist>Shitmat</artist>
+    <artist>Tony Christie</artist>
+    <artist>Seth Lakeman</artist>
+    <artist>The Shortwave Set</artist>
+    <artist>Wave Machines</artist>
+    <artist>VV Brown</artist>
+    <artist>Jarvis</artist>
+    <artist>Soho Dolls</artist>
+    <artist>First Aid Kit</artist>
+    <artist>Golden Silvers</artist>
+    <artist>The King Blues</artist>
+    <artist>Eliza Carthy</artist>
+    <artist>Boy Crisis</artist>
+    <artist>Ray Davies</artist>
+    <artist>The Soft Pack</artist>
+    <artist>Fight Like Apes</artist>
+    <artist>Esser</artist>
+    <artist>The Kleptones</artist>
+    <artist>Alberta Cross</artist>
+    <artist>Terry Reid</artist>
+    <artist>Broken Records</artist>
+    <artist>Crazy P</artist>
+    <artist>The Emperor Machine</artist>
+    <artist>Lay Low</artist>
+    <artist>Erol Alkan</artist>
+    <artist>Kapela ze wsi Warszawa</artist>
+    <artist>Kap Bambino</artist>
+    <artist>Benga &amp; Skream</artist>
+    <artist>Josh Wink</artist>
+    <artist>Scratch Perverts</artist>
+    <artist>Rolf Harris</artist>
+    <artist>Warsaw Village Band</artist>
+    <artist>thecocknbullkid</artist>
+    <artist>Pete Tong</artist>
+    <artist>James Hunter</artist>
+    <artist>Heartbreak</artist>
+    <artist>Team Waterpolo</artist>
+    <artist>Imelda May</artist>
+    <artist>Peter, Bjorn &amp; John</artist>
+    <artist>Official Secrets Act</artist>
+    <artist>Goldfish</artist>
+    <artist>Hypnotic Brass Ensemble</artist>
+    <artist>Easy Star All Stars</artist>
+    <artist>NAPT</artist>
+    <artist>Hot 8 Brass Band</artist>
+    <artist>Theoretical Girl</artist>
+    <artist>Blue Roses</artist>
+    <artist>Paul Woolford</artist>
+    <artist>Bishi</artist>
+    <artist>In Case of Fire</artist>
+    <artist>General Fiasco</artist>
+    <artist>Micachu and the Shapes</artist>
+    <artist>The Lost Brothers</artist>
+    <artist>The Mummers</artist>
+    <artist>Tayo</artist>
+    <artist>Playing For Change</artist>
+    <artist>The Japanese Popstars</artist>
+    <artist>Joe Lean and the Jing Jang Jong</artist>
+    <artist>Stephanie McKay</artist>
+    <artist>Linda Lewis</artist>
+    <artist>The Glitterati</artist>
+    <artist>Temper Trap</artist>
+    <artist>The Hot Rats</artist>
+    <artist>stornoway</artist>
+    <artist>Vagabond</artist>
+    <artist>Ebony Bones</artist>
+    <artist>Joolz</artist>
+    <artist>The Capitol Years</artist>
+    <artist>The Nightingales</artist>
+    <artist>Mark Olson &amp; Gary Louris</artist>
+    <artist>The Memory Band</artist>
+    <artist>The Lancashire Hotpots</artist>
+    <artist>Liz Green</artist>
+    <artist>Annie Mac</artist>
+    <artist>The Travelling Band</artist>
+    <artist>Good Books</artist>
+    <artist>Chief</artist>
+    <artist>Burn The Negative</artist>
+    <artist>Shlomo</artist>
+    <artist>The Bobby McGee's</artist>
+    <artist>Kava Kava</artist>
+    <artist>Charlene Soraia</artist>
+    <artist>Joe Gideon &amp; The Shark</artist>
+    <artist>Transformer</artist>
+    <artist>Yoda</artist>
+    <artist>Rob Da Bank</artist>
+    <artist>Billy Nasty</artist>
+    <artist>The Rockingbirds</artist>
+    <artist>The Gentle Good</artist>
+    <artist>Speed Caravan</artist>
+    <artist>Formula</artist>
+    <artist>The Slips</artist>
+    <artist>Egypt 80</artist>
+    <artist>Bjorn Again</artist>
+    <artist>Major Major</artist>
+    <artist>John Fairhurst</artist>
+    <artist>Johnno Burgess</artist>
+    <artist>BeardyMan</artist>
+    <artist>Beat Torrent</artist>
+    <artist>The Blockheads</artist>
+    <artist>Colorama</artist>
+    <artist>Dead Like Harry</artist>
+    <artist>Kissy Sellout</artist>
+    <artist>Sharon Corr</artist>
+    <artist>Babajack</artist>
+    <artist>Hedluv</artist>
+    <artist>the mojo fins</artist>
+    <artist>Yr Ods</artist>
+    <artist>Tony Benn</artist>
+    <artist>Hope &amp; Social</artist>
+    <artist>Hot Rats</artist>
+    <artist>Penfold Gate</artist>
+    <artist>City Stereo</artist>
+    <artist>DogShow</artist>
+    <artist>Nathan Detroit</artist>
+    <artist>Ella Chi</artist>
+    <artist>Mr. B The Gentleman Rhymer</artist>
+    <artist>The Roots Union</artist>
+    <artist>MC Gaff E</artist>
+    <artist>Simon D.</artist>
+    <artist>Eastroad</artist>
+    <artist>Bowjangles</artist>
+    <artist>Blackberry Wood</artist>
+    <artist>Demon Cabbage</artist>
+    <artist>Deadsilence Syndicate</artist>
+    <artist>Niccie Simpson</artist>
+    <artist>Peatbog Faries</artist>
+    <artist>Drunken Balordi</artist>
+    <artist>Boat Band</artist>
+    <artist>Peggie Sue &amp; The Pirates</artist>
+    <artist>Bodger And Badger</artist>
+    <artist>Africa Express</artist>
+    <artist>TD-Lars</artist>
+    <artist>Diesel Dave</artist>
+    <artist>Leo The Amatuer</artist>
+    <headliner>Franz Ferdinand</headliner>
+  </artists>
+  <venue>
+    <id>8783201</id>
+    <name>Worthy Farm</name>
+    <location>
+      <city>Shepton Mallet</city>
+      <country>United Kingdom</country>
+      <street>Pilton</street>
+      <postalcode>BA4 4BY</postalcode>
+      <geo:point>
+         <geo:lat>51.159843</geo:lat>
+         <geo:long>-2.585621</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8783201+Worthy+Farm</url>
+    <website>www.glastonburyfestivals.co.uk</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/277450.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/277450.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/277450.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/277450.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/277450/Worthy+Farm.jpg</image>
+  </venue>  <startDate>Wed, 24 Jun 2009 19:03:01</startDate>
+  <endDate>Mon, 29 Jun 2009 19:03:01</endDate>
+  <description><![CDATA[<div class="bbcode">FULL LINE UP NOW OUT:<br />
+<a href="http://www.glastonburyfestivals.co.uk/line-up-poster/" rel="nofollow">http://www.glastonburyfestivals.co.uk/line-up-poster/</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/28976971.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/28976971.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/28976971.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/28976971.jpg</image>
+  <attendance>1341</attendance>
+  <reviews>17</reviews>
+  <tag>lastfm:event=705315</tag>    
+  <url>http://www.last.fm/event/705315+Glastonbury+Festival+of+Contemporary+Performing+Arts</url>
+  <website>http://www.glastonburyfestivals.co.uk/</website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1036532</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Magistrates</artist>
+    <artist>Tukazon</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8777983</id>
+    <name>The Civic Hall</name>
+    <location>
+      <city>Wolverhampton</city>
+      <country>United Kingdom</country>
+      <street>North Street</street>
+      <postalcode>WV1 1RQ</postalcode>
+      <geo:point>
+         <geo:lat>52.586168</geo:lat>
+         <geo:long>-2.130417</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777983+The+Civic+Hall</url>
+    <website>http://www.wolvescivic.co.uk</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/27957.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/27957.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/27957.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/27957.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/27957/The+Civic+Hall.jpg</image>
+  </venue>  <startDate>Wed, 24 Jun 2009 09:44:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>44</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1036532</tag>    
+  <url>http://www.last.fm/event/1036532+Blur+at+The+Civic+Hall+on+24+June+2009</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1031545</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>9026879</id>
+    <name>Goldsmiths College</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>51.471525</geo:lat>
+         <geo:long>-0.030352</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9026879+Goldsmiths+College</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Mon, 22 Jun 2009 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>28</attendance>
+  <reviews>1</reviews>
+  <tag>lastfm:event=1031545</tag>    
+  <url>http://www.last.fm/event/1031545+Blur+at+Goldsmiths+College+on+22+June+2009</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1036528</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Magistrates</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778075</id>
+    <name>Southend Cliffs Pavilion</name>
+    <location>
+      <city>Southend On Sea</city>
+      <country>United Kingdom</country>
+      <street>Station Road</street>
+      <postalcode>SS0 7RA</postalcode>
+      <geo:point>
+         <geo:lat>51.53681</geo:lat>
+         <geo:long>0.693468</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778075+Southend+Cliffs+Pavilion</url>
+    <website>http://www.thecliffspavilion.co.uk/</website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sun, 21 Jun 2009 09:41:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>40</attendance>
+  <reviews>1</reviews>
+  <tag>lastfm:event=1036528</tag>    
+  <url>http://www.last.fm/event/1036528+Blur+at+Southend+Cliffs+Pavilion+on+21+June+2009</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1108477</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8858721</id>
+    <name>Rough Trade East</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>Dray Walk, 91 Brick Lane</street>
+      <postalcode>E1 6QL</postalcode>
+      <geo:point>
+         <geo:lat>51.521706</geo:lat>
+         <geo:long>-0.072289</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8858721+Rough+Trade+East</url>
+    <website>http://www.roughtrade.com/site/instore.lasso</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/591599.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/591599.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/591599.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/591599.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/591599/Rough+Trade+East.jpg</image>
+  </venue>  <startDate>Mon, 15 Jun 2009 19:00:00</startDate>
+  <description><![CDATA[<div class="bbcode"><a href="http://www.last.fm/music/Blur" class="bbcode_artist">Blur</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>9</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1108477</tag>    
+  <url>http://www.last.fm/event/1108477+Blur+at+Rough+Trade+East+on+15+June+2009</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1031541</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>9026878</id>
+    <name>East Anglian Railway Museum</name>
+    <location>
+      <city>Colchester</city>
+      <country>United Kingdom</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>51.924498</geo:lat>
+         <geo:long>0.755927</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9026878+East+Anglian+Railway+Museum</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sat, 13 Jun 2009 19:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>4</attendance>
+  <reviews>1</reviews>
+  <tag>lastfm:event=1031541</tag>    
+  <url>http://www.last.fm/event/1031541+Blur+at+East+Anglian+Railway+Museum+on+13+June+2009</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>635326</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778039</id>
+    <name>Bournemouth Int'nl Centre</name>
+    <location>
+      <city>Bournemouth</city>
+      <country>United Kingdom</country>
+      <street>Exeter Road</street>
+      <postalcode>BH2 5BH</postalcode>
+      <geo:point>
+         <geo:lat>50.718143</geo:lat>
+         <geo:long>-1.879544</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778039+Bournemouth+Int%27nl+Centre</url>
+    <website>http://www.bic.co.uk/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/8523911.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/8523911.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/8523911.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/8523911.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/8523911/Bournemouth+Intnl+Centre+bournemouth_international_cent.jpg</image>
+  </venue>  <startDate>Fri, 12 Dec 2003 00:10:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>2</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=635326</tag>    
+  <url>http://www.last.fm/event/635326+Blur+at+Bournemouth+Int%27nl+Centre+on+12+December+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>247786</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8777955</id>
+    <name>Brighton Centre</name>
+    <location>
+      <city>Brighton</city>
+      <country>United Kingdom</country>
+      <street>Kings Road</street>
+      <postalcode>BN1 2GR</postalcode>
+      <geo:point>
+         <geo:lat>50.821289</geo:lat>
+         <geo:long>-0.148167</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777955+Brighton+Centre</url>
+    <website>http://www.brightoncentre.co.uk/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/2337470.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/2337470.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/2337470.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/2337470.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/2337470/Brighton+Centre+800pxBrighton_Centre.jpg</image>
+  </venue>  <startDate>Thu, 11 Dec 2003 20:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>3</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=247786</tag>    
+  <url>http://www.last.fm/event/247786+Blur+at+Brighton+Centre+on+11+December+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>249929</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8994835</id>
+    <name>O2 Academy Brixton</name>
+    <location>
+      <city>London</city>
+      <country>United Kingdom</country>
+      <street>211 Stockwell Road</street>
+      <postalcode>SW9 9SL</postalcode>
+      <geo:point>
+         <geo:lat>51.465373</geo:lat>
+         <geo:long>-0.115206</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8994835+O2+Academy+Brixton</url>
+    <website>http://www.o2academybrixton.co.uk</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/23088909.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/23088909.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/23088909.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/23088909.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/23088909/O2+Academy+Brixton+brix.jpg</image>
+  </venue>  <startDate>Wed, 03 Dec 2003 20:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>8</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=249929</tag>    
+  <url>http://www.last.fm/event/249929+Blur+at+O2+Academy+Brixton+on+3+December+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>159604</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8795008</id>
+    <name>Manchester Apollo</name>
+    <location>
+      <city>Manchester</city>
+      <country>United Kingdom</country>
+      <street>Stockport Road, Ardwick Green</street>
+      <postalcode>M12 6AP</postalcode>
+      <geo:point>
+         <geo:lat>53.4714</geo:lat>
+         <geo:long>-2.22511</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8795008+Manchester+Apollo</url>
+    <website>http://www.carling.com/music/venue/manchester_apollo.html</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/2981080.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/2981080.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/2981080.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/2981080.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/2981080/Manchester+Apollo.jpg</image>
+  </venue>  <startDate>Sat, 29 Nov 2003 20:02:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>3</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=159604</tag>    
+  <url>http://www.last.fm/event/159604+Blur+at+Manchester+Apollo+on+29+November+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>285346</id>
+  <title>Think Tank UK Tour</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>DJ Adrian Sherwood</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8795008</id>
+    <name>Manchester Apollo</name>
+    <location>
+      <city>Manchester</city>
+      <country>United Kingdom</country>
+      <street>Stockport Road, Ardwick Green</street>
+      <postalcode>M12 6AP</postalcode>
+      <geo:point>
+         <geo:lat>53.4714</geo:lat>
+         <geo:long>-2.22511</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8795008+Manchester+Apollo</url>
+    <website>http://www.carling.com/music/venue/manchester_apollo.html</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/2981080.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/2981080.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/2981080.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/2981080.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/2981080/Manchester+Apollo.jpg</image>
+  </venue>  <startDate>Fri, 28 Nov 2003 18:04:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>1</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=285346</tag>    
+  <url>http://www.last.fm/event/285346+Think+Tank+UK+Tour</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>877626</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8777983</id>
+    <name>The Civic Hall</name>
+    <location>
+      <city>Wolverhampton</city>
+      <country>United Kingdom</country>
+      <street>North Street</street>
+      <postalcode>WV1 1RQ</postalcode>
+      <geo:point>
+         <geo:lat>52.586168</geo:lat>
+         <geo:long>-2.130417</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777983+The+Civic+Hall</url>
+    <website>http://www.wolvescivic.co.uk</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/27957.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/27957.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/27957.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/27957.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/27957/The+Civic+Hall.jpg</image>
+  </venue>  <startDate>Tue, 25 Nov 2003 17:25:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>1</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=877626</tag>    
+  <url>http://www.last.fm/event/877626+Blur+at+The+Civic+Hall+on+25+November+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>37460</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Adrian Sherwood</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778122</id>
+    <name>Royal Court Theatre</name>
+    <location>
+      <city>Liverpool</city>
+      <country>United Kingdom</country>
+      <street>1 Roe Street</street>
+      <postalcode>L1 1HL</postalcode>
+      <geo:point>
+         <geo:lat>53.407416</geo:lat>
+         <geo:long>-2.982524</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778122+Royal+Court+Theatre</url>
+    <website>ttp://www.royalcourtliverpool.co.uk</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/8586731.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/8586731.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/8586731.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/8586731.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/8586731/Royal+Court+Theatre+rcl.jpg</image>
+  </venue>  <startDate>Mon, 24 Nov 2003 12:19:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>3</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=37460</tag>    
+  <url>http://www.last.fm/event/37460+Blur+at+Royal+Court+Theatre+on+24+November+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1446878</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8777093</id>
+    <name>Barrowlands</name>
+    <location>
+      <city>Glasgow</city>
+      <country>United Kingdom</country>
+      <street>244 Gallowgate</street>
+      <postalcode>G4 0TS</postalcode>
+      <geo:point>
+         <geo:lat>55.855055</geo:lat>
+         <geo:long>-4.236918</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777093+Barrowlands</url>
+    <website>http://www.glasgow-barrowland.com/ballroom.htm</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/601807.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/601807.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/601807.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/601807.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/601807/Barrowlands.jpg</image>
+  </venue>  <startDate>Sat, 22 Nov 2003 20:05:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>1</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1446878</tag>    
+  <url>http://www.last.fm/event/1446878+Blur+at+Barrowlands+on+22+November+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>118949</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8777093</id>
+    <name>Barrowlands</name>
+    <location>
+      <city>Glasgow</city>
+      <country>United Kingdom</country>
+      <street>244 Gallowgate</street>
+      <postalcode>G4 0TS</postalcode>
+      <geo:point>
+         <geo:lat>55.855055</geo:lat>
+         <geo:long>-4.236918</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777093+Barrowlands</url>
+    <website>http://www.glasgow-barrowland.com/ballroom.htm</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/601807.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/601807.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/601807.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/601807.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/601807/Barrowlands.jpg</image>
+  </venue>  <startDate>Fri, 21 Nov 2003 21:29:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>4</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=118949</tag>    
+  <url>http://www.last.fm/event/118949+Blur+at+Barrowlands+on+21+November+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>602142</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8777093</id>
+    <name>Barrowlands</name>
+    <location>
+      <city>Glasgow</city>
+      <country>United Kingdom</country>
+      <street>244 Gallowgate</street>
+      <postalcode>G4 0TS</postalcode>
+      <geo:point>
+         <geo:lat>55.855055</geo:lat>
+         <geo:long>-4.236918</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8777093+Barrowlands</url>
+    <website>http://www.glasgow-barrowland.com/ballroom.htm</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/601807.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/601807.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/601807.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/601807.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/601807/Barrowlands.jpg</image>
+  </venue>  <startDate>Thu, 20 Nov 2003 15:15:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>2</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=602142</tag>    
+  <url>http://www.last.fm/event/602142+Blur+at+Barrowlands+on+20+November+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>418229</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Elbow</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778527</id>
+    <name>Alcatraz</name>
+    <location>
+      <city>Milan</city>
+      <country>Italy</country>
+      <street>Via Valtellina 21</street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>45.494197</geo:lat>
+         <geo:long>9.182773</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778527+Alcatraz</url>
+    <website>http://www.alcatrazmilano.com</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/199175.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/199175.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/199175.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/199175.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/199175/Alcatraz.jpg</image>
+  </venue>  <startDate>Wed, 12 Nov 2003 19:53:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>5</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=418229</tag>    
+  <url>http://www.last.fm/event/418229+Blur+at+Alcatraz+on+12+November+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>633050</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Elbow</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8783759</id>
+    <name>Vox Club</name>
+    <location>
+      <city>Nonantola</city>
+      <country>Italy</country>
+      <street>Viale  Vittorio Veneto 13</street>
+      <postalcode>41014</postalcode>
+      <geo:point>
+         <geo:lat>44.678263</geo:lat>
+         <geo:long>11.038448</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8783759+Vox+Club</url>
+    <website>http://www.vox-club.com/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/2714351.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/2714351.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/2714351.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/2714351.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/2714351/Vox+Club+1435138112_7bd48b14d1_o.jpg</image>
+  </venue>  <startDate>Tue, 11 Nov 2003 18:15:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>3</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=633050</tag>    
+  <url>http://www.last.fm/event/633050+Blur+at+Vox+Club+on+11+November+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>326814</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Curbs</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778988</id>
+    <name>Gasometer</name>
+    <location>
+      <city>Wien</city>
+      <country>Austria</country>
+      <street>Guglgasse 8</street>
+      <postalcode>1110</postalcode>
+      <geo:point>
+         <geo:lat>48.185202</geo:lat>
+         <geo:long>16.419407</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778988+Gasometer</url>
+    <website>http://www.planet.tt</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/570975.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/570975.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/570975.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/570975.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/570975/Gasometer.jpg</image>
+  </venue>  <startDate>Sun, 09 Nov 2003 20:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>8</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=326814</tag>    
+  <url>http://www.last.fm/event/326814+Blur+at+Gasometer+on+9+November+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>731865</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Blind Zero</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8810239</id>
+    <name>Coliseu dos Recreios</name>
+    <location>
+      <city>Lisboa</city>
+      <country>Portugal</country>
+      <street>Rua das Portas de Santo Antão, 96</street>
+      <postalcode>1150-269</postalcode>
+      <geo:point>
+         <geo:lat>38.716644</geo:lat>
+         <geo:long>-9.140886</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8810239+Coliseu+dos+Recreios</url>
+    <website>http://www.coliseulisboa.com/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/116208.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/116208.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/116208.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/116208.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/116208/Coliseu+dos+Recreios.jpg</image>
+  </venue>  <startDate>Wed, 05 Nov 2003 18:49:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>2</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=731865</tag>    
+  <url>http://www.last.fm/event/731865+Blur+at+Coliseu+dos+Recreios+on+5+November+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>1</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>318688</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Karma Police</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8792380</id>
+    <name>La Riviera</name>
+    <location>
+      <city>Madrid</city>
+      <country>Spain</country>
+      <street>Paseo Virgen del Puerto</street>
+      <postalcode>28005</postalcode>
+      <geo:point>
+         <geo:lat>40.407517</geo:lat>
+         <geo:long>-3.72141</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8792380+La+Riviera</url>
+    <website>http://www.salariviera.com/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/21524955.png</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/21524955.png</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/21524955.png</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/21524955.png</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/21524955/La+Riviera+riviera.png</image>
+  </venue>  <startDate>Mon, 03 Nov 2003 22:48:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>6</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=318688</tag>    
+  <url>http://www.last.fm/event/318688+Blur+at+La+Riviera+on+3+November+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>200672</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Elbow</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8779818</id>
+    <name>Razzmatazz</name>
+    <location>
+      <city>Barcelona</city>
+      <country>Spain</country>
+      <street>Carrer dels Almogàvers 122</street>
+      <postalcode>08018</postalcode>
+      <geo:point>
+         <geo:lat>41.397634</geo:lat>
+         <geo:long>2.190736</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8779818+Razzmatazz</url>
+    <website>http://www.salarazzmatazz.com/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/2683174.gif</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/2683174.gif</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/2683174.gif</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/2683174.gif</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/2683174/Razzmatazz+Foto++Fachada.gif</image>
+  </venue>  <startDate>Sun, 02 Nov 2003 20:45:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>1</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=200672</tag>    
+  <url>http://www.last.fm/event/200672+Blur+at+Razzmatazz+on+2+November+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>613040</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>The Coral</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8779234</id>
+    <name>Volkshaus</name>
+    <location>
+      <city>Zürich</city>
+      <country>Switzerland</country>
+      <street>Stauffacherstrasse 60</street>
+      <postalcode>8004</postalcode>
+      <geo:point>
+         <geo:lat>47.375457</geo:lat>
+         <geo:long>8.527224</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8779234+Volkshaus</url>
+    <website>http://www.volkshaus.ch/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/2174382.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/2174382.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/2174382.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/2174382.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/2174382/Volkshaus.jpg</image>
+  </venue>  <startDate>Fri, 24 Oct 2003 20:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>1</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=613040</tag>    
+  <url>http://www.last.fm/event/613040+Blur+at+Volkshaus+on+24+October+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>418462</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>The Coral</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8779776</id>
+    <name>Circus Krone</name>
+    <location>
+      <city>München</city>
+      <country>Germany</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>49.55</geo:lat>
+         <geo:long>11.5833333</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8779776+Circus+Krone</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Thu, 23 Oct 2003 00:54:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>4</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=418462</tag>    
+  <url>http://www.last.fm/event/418462+Blur+at+Circus+Krone+on+23+October+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>38085</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>The Coral</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778543</id>
+    <name>Palladium</name>
+    <location>
+      <city>Cologne</city>
+      <country>Germany</country>
+      <street>Schanzenstraße 40</street>
+      <postalcode>51063</postalcode>
+      <geo:point>
+         <geo:lat>50.969319</geo:lat>
+         <geo:long>7.016702</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778543+Palladium</url>
+    <website>http://www.palladium-koeln.de/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/25062.gif</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/25062.gif</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/25062.gif</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/25062.gif</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/25062/Palladium.gif</image>
+  </venue>  <startDate>Tue, 21 Oct 2003 15:59:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>6</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=38085</tag>    
+  <url>http://www.last.fm/event/38085+Blur+at+Palladium+on+21+October+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>204407</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>The Coral</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8783132</id>
+    <name>Tempodrom</name>
+    <location>
+      <city>Berlin</city>
+      <country>Germany</country>
+      <street>Möckernstraße 10</street>
+      <postalcode>10963</postalcode>
+      <geo:point>
+         <geo:lat>52.502624</geo:lat>
+         <geo:long>13.382749</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8783132+Tempodrom</url>
+    <website>http://www.tempodrom.de</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/29465795.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/29465795.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/29465795.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/29465795.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/29465795/Tempodrom.jpg</image>
+  </venue>  <startDate>Mon, 20 Oct 2003 20:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>21</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=204407</tag>    
+  <url>http://www.last.fm/event/204407+Blur+at+Tempodrom+on+20+October+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>185952</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>The Coral</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8795514</id>
+    <name>Pepsi Stage</name>
+    <location>
+      <city>Amsterdam</city>
+      <country>Netherlands</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>52.311944</geo:lat>
+         <geo:long>4.942778</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8795514+Pepsi+Stage</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sun, 19 Oct 2003 20:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>13</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=185952</tag>    
+  <url>http://www.last.fm/event/185952+Blur+at+Pepsi+Stage+on+19+October+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>682672</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>The Coral</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778463</id>
+    <name>Ancienne Belgique</name>
+    <location>
+      <city>Brussels</city>
+      <country>Belgium</country>
+      <street>Anspachlaan 110</street>
+      <postalcode>1000</postalcode>
+      <geo:point>
+         <geo:lat>50.847272</geo:lat>
+         <geo:long>4.348733</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778463+Ancienne+Belgique</url>
+    <website>http://www.abconcerts.be</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/2226454.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/2226454.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/2226454.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/2226454.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/2226454/Ancienne+Belgique.jpg</image>
+  </venue>  <startDate>Fri, 17 Oct 2003 10:55:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>2</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=682672</tag>    
+  <url>http://www.last.fm/event/682672+Blur+at+Ancienne+Belgique+on+17+October+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>60365</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778723</id>
+    <name>L'Olympia</name>
+    <location>
+      <city>Paris</city>
+      <country>France</country>
+      <street>28 Boulevard des Capucines</street>
+      <postalcode>75009</postalcode>
+      <geo:point>
+         <geo:lat>48.871525</geo:lat>
+         <geo:long>2.328159</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778723+L%27Olympia</url>
+    <website>http://www.olympiahall.com</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/32139827.png</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/32139827.png</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/32139827.png</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/32139827.png</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/32139827/LOlympia+Olympia_Paris_dsc00803.png</image>
+  </venue>  <startDate>Thu, 16 Oct 2003 20:25:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>4</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=60365</tag>    
+  <url>http://www.last.fm/event/60365+Blur+at+L%27Olympia+on+16+October+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>55909</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>The Coral</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8780646</id>
+    <name>Grosse Freiheit 36</name>
+    <location>
+      <city>Hamburg</city>
+      <country>Germany</country>
+      <street>Große Freiheit 36</street>
+      <postalcode>22767</postalcode>
+      <geo:point>
+         <geo:lat>53.551246</geo:lat>
+         <geo:long>9.957783</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8780646+Grosse+Freiheit+36</url>
+    <website>http://www.grossefreiheit36.de/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/8327231.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/8327231.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/8327231.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/8327231.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/8327231/Grosse+Freiheit+36+Groe+Freiheit+36.jpg</image>
+  </venue>  <startDate>Wed, 15 Oct 2003 16:17:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>4</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=55909</tag>    
+  <url>http://www.last.fm/event/55909+Blur+at+Grosse+Freiheit+36+on+15+October+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>42413</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>The Coral</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778878</id>
+    <name>Store Vega</name>
+    <location>
+      <city>København V</city>
+      <country>Denmark</country>
+      <street>Enghavevej 40</street>
+      <postalcode>1674</postalcode>
+      <geo:point>
+         <geo:lat>55.667992</geo:lat>
+         <geo:long>12.544508</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778878+Store+Vega</url>
+    <website>http://www.vega.dk</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/572068.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/572068.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/572068.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/572068.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/572068/Store+Vega.jpg</image>
+  </venue>  <startDate>Sun, 12 Oct 2003 20:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>4</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=42413</tag>    
+  <url>http://www.last.fm/event/42413+Blur+at+Store+Vega+on+12+October+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1263361</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8947992</id>
+    <name>ДК им. Горбунова</name>
+    <location>
+      <city>Москва</city>
+      <country>Russian Federation</country>
+      <street>Новозаводская ул., дом 27</street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>55.749732</geo:lat>
+         <geo:long>37.49879</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8947992+%D0%94%D0%9A+%D0%B8%D0%BC.+%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%D0%B0</url>
+    <website>http://www.glavclub.com/msk/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/10939873.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/10939873.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/10939873.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/10939873.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/10939873/23154856_1208682699_photo_dk_1.jpg</image>
+  </venue>  <startDate>Thu, 25 Sep 2003 19:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>3</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1263361</tag>    
+  <url>http://www.last.fm/event/1263361+Blur+at+%D0%94%D0%9A+%D0%B8%D0%BC.+%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%D0%B0+on+25+September+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1263367</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8947992</id>
+    <name>ДК им. Горбунова</name>
+    <location>
+      <city>Москва</city>
+      <country>Russian Federation</country>
+      <street>Новозаводская ул., дом 27</street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>55.749732</geo:lat>
+         <geo:long>37.49879</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8947992+%D0%94%D0%9A+%D0%B8%D0%BC.+%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%D0%B0</url>
+    <website>http://www.glavclub.com/msk/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/10939873.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/10939873.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/10939873.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/10939873.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/10939873/23154856_1208682699_photo_dk_1.jpg</image>
+  </venue>  <startDate>Wed, 24 Sep 2003 19:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>2</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1263367</tag>    
+  <url>http://www.last.fm/event/1263367+Blur+at+%D0%94%D0%9A+%D0%B8%D0%BC.+%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%D0%B0+on+24+September+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>53892</id>
+  <title>Leeds Festival 2003</title>
+  <artists>
+    <artist>Metallica</artist>
+    <artist>Linkin Park</artist>
+    <artist>Franz Ferdinand</artist>
+    <artist>System of a Down</artist>
+    <artist>Placebo</artist>
+    <artist>Beck</artist>
+    <artist>Blur</artist>
+    <artist>blink-182</artist>
+    <artist>Keane</artist>
+    <artist>Yeah Yeah Yeahs</artist>
+    <artist>Interpol</artist>
+    <artist>The All-American Rejects</artist>
+    <artist>Sum 41</artist>
+    <artist>Jet</artist>
+    <artist>Good Charlotte</artist>
+    <artist>Staind</artist>
+    <artist>AFI</artist>
+    <artist>The Libertines</artist>
+    <artist>Billy Talent</artist>
+    <artist>The Mars Volta</artist>
+    <artist>The Used</artist>
+    <artist>Scissor Sisters</artist>
+    <artist>Doves</artist>
+    <artist>Hot Hot Heat</artist>
+    <artist>Alien Ant Farm</artist>
+    <artist>OK Go</artist>
+    <artist>Black Rebel Motorcycle Club</artist>
+    <artist>Ladytron</artist>
+    <artist>The Streets</artist>
+    <artist>Elbow</artist>
+    <artist>Alkaline Trio</artist>
+    <artist>Primal Scream</artist>
+    <artist>Thrice</artist>
+    <artist>The Ataris</artist>
+    <artist>The Darkness</artist>
+    <artist>The Kills</artist>
+    <artist>Bowling for Soup</artist>
+    <artist>Grandaddy</artist>
+    <artist>Less Than Jake</artist>
+    <artist>Pennywise</artist>
+    <artist>Finch</artist>
+    <artist>Saves the Day</artist>
+    <artist>The Thrills</artist>
+    <artist>The Raveonettes</artist>
+    <artist>Biffy Clyro</artist>
+    <artist>Electric Six</artist>
+    <artist>Lagwagon</artist>
+    <artist>The Music</artist>
+    <artist>Audio Bullys</artist>
+    <artist>The Polyphonic Spree</artist>
+    <artist>Junior Senior</artist>
+    <artist>Mad Caddies</artist>
+    <artist>Turbonegro</artist>
+    <artist>British Sea Power</artist>
+    <artist>Sparta</artist>
+    <artist>Poison the Well</artist>
+    <artist>boysetsfire</artist>
+    <artist>Manitoba</artist>
+    <artist>Radio 4</artist>
+    <artist>The Datsuns</artist>
+    <artist>InMe</artist>
+    <artist>The Movielife</artist>
+    <artist>Hundred Reasons</artist>
+    <artist>Cave In</artist>
+    <artist>Hope of the States</artist>
+    <artist>Hell Is for Heroes</artist>
+    <artist>The Sleepy Jackson</artist>
+    <artist>Calla</artist>
+    <artist>Longview</artist>
+    <artist>The Eighties Matchbox B-Line Disaster</artist>
+    <artist>Har Mar Superstar</artist>
+    <artist>Mull Historical Society</artist>
+    <artist>Serafin</artist>
+    <artist>King Prawn</artist>
+    <artist>Kinesis</artist>
+    <artist>The Applicators</artist>
+    <artist>Funeral For  A Friend</artist>
+    <headliner>Metallica</headliner>
+  </artists>
+  <venue>
+    <id>8796129</id>
+    <name>Bramham Park</name>
+    <location>
+      <city>Leeds</city>
+      <country>United Kingdom</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>53.872715</geo:lat>
+         <geo:long>-1.372895</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8796129+Bramham+Park</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Fri, 22 Aug 2003 12:00:00</startDate>
+  <endDate>Sun, 24 Aug 2003 11:46:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/16036851.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/16036851.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/16036851.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/16036851.jpg</image>
+  <attendance>61</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=53892</tag>    
+  <url>http://www.last.fm/event/53892+Leeds+Festival+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>46500</id>
+  <title>Reading Festival 2003</title>
+  <artists>
+    <artist>Linkin Park</artist>
+    <artist>Franz Ferdinand</artist>
+    <artist>System of a Down</artist>
+    <artist>Placebo</artist>
+    <artist>Beck</artist>
+    <artist>Metallica</artist>
+    <artist>Blur</artist>
+    <artist>blink-182</artist>
+    <artist>Keane</artist>
+    <artist>Yeah Yeah Yeahs</artist>
+    <artist>Interpol</artist>
+    <artist>Sum 41</artist>
+    <artist>Jet</artist>
+    <artist>Razorlight</artist>
+    <artist>Good Charlotte</artist>
+    <artist>Staind</artist>
+    <artist>AFI</artist>
+    <artist>The Libertines</artist>
+    <artist>Billy Talent</artist>
+    <artist>The Mars Volta</artist>
+    <artist>The Used</artist>
+    <artist>Scissor Sisters</artist>
+    <artist>Doves</artist>
+    <artist>Hot Hot Heat</artist>
+    <artist>Alien Ant Farm</artist>
+    <artist>OK Go</artist>
+    <artist>Black Rebel Motorcycle Club</artist>
+    <artist>Ladytron</artist>
+    <artist>The Futureheads</artist>
+    <artist>The Streets</artist>
+    <artist>Elbow</artist>
+    <artist>Alkaline Trio</artist>
+    <artist>Sugarcult</artist>
+    <artist>Primal Scream</artist>
+    <artist>Thrice</artist>
+    <artist>The Ataris</artist>
+    <artist>The Darkness</artist>
+    <artist>My Morning Jacket</artist>
+    <artist>The Kills</artist>
+    <artist>Bowling for Soup</artist>
+    <artist>The Rapture</artist>
+    <artist>Funeral For A Friend</artist>
+    <artist>The Black Keys</artist>
+    <artist>Less Than Jake</artist>
+    <artist>Pennywise</artist>
+    <artist>Finch</artist>
+    <artist>Saves the Day</artist>
+    <artist>Biffy Clyro</artist>
+    <artist>The Thrills</artist>
+    <artist>Electric Six</artist>
+    <artist>Lagwagon</artist>
+    <artist>The Music</artist>
+    <artist>Audio Bullys</artist>
+    <artist>Junior Senior</artist>
+    <artist>The Cooper Temple Clause</artist>
+    <artist>Mad Caddies</artist>
+    <artist>Turbonegro</artist>
+    <artist>British Sea Power</artist>
+    <artist>Sparta</artist>
+    <artist>Billy Bragg</artist>
+    <artist>Poison the Well</artist>
+    <artist>Brendan Benson</artist>
+    <artist>boysetsfire</artist>
+    <artist>InMe</artist>
+    <artist>The Datsuns</artist>
+    <artist>Hundred Reasons</artist>
+    <artist>Cave In</artist>
+    <artist>Hell Is for Heroes</artist>
+    <artist>The Sleepy Jackson</artist>
+    <artist>Soledad Brothers</artist>
+    <artist>Evan Dando</artist>
+    <artist>Longview</artist>
+    <artist>The Eighties Matchbox B-Line Disaster</artist>
+    <artist>Har Mar Superstar</artist>
+    <artist>Mull Historical Society</artist>
+    <artist>All-American Rejects</artist>
+    <artist>The Sun</artist>
+    <artist>King Prawn</artist>
+    <artist>Futureshock</artist>
+    <artist>The Go</artist>
+    <artist>Whirlwind Heat</artist>
+    <artist>The Buff Medways</artist>
+    <artist>Rocket Science</artist>
+    <artist>Kinesis</artist>
+    <artist>The Sights</artist>
+    <artist>Young Heart Attack</artist>
+    <artist>Violent Delight</artist>
+    <artist>Gold Chains</artist>
+    <artist>Vue</artist>
+    <artist>Colour of Fire</artist>
+    <artist>The Bandits</artist>
+    <artist>Winnebago Deal</artist>
+    <artist>2ManyDJs</artist>
+    <artist>The Applicators</artist>
+    <artist>The Agenda</artist>
+    <artist>The Real</artist>
+    <headliner>Linkin Park</headliner>
+  </artists>
+  <venue>
+    <id>8781878</id>
+    <name>Little John's Farm</name>
+    <location>
+      <city>Reading</city>
+      <country>United Kingdom</country>
+      <street>Richmond Avenue</street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>51.477868</geo:lat>
+         <geo:long>-0.986683</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8781878+Little+John%27s+Farm</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/551868.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/551868.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/551868.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/551868.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/551868/Little+Johns+Farm.jpg</image>
+  </venue>  <startDate>Fri, 22 Aug 2003 02:19:01</startDate>
+  <endDate>Sun, 24 Aug 2003 02:19:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/43779571.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/43779571.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/43779571.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/43779571.jpg</image>
+  <attendance>88</attendance>
+  <reviews>1</reviews>
+  <tag>lastfm:event=46500</tag>    
+  <url>http://www.last.fm/event/46500+Reading+Festival+2003</url>
+  <website>http://www.strictlyreading.co.uk/</website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>193422</id>
+  <title>FIB Heineken 2003</title>
+  <artists>
+    <artist>Beck</artist>
+    <artist>Placebo</artist>
+    <artist>Moby</artist>
+    <artist>Blur</artist>
+    <artist>The Postal Service</artist>
+    <artist>Travis</artist>
+    <artist>Moloko</artist>
+    <artist>Echo &amp; The Bunnymen</artist>
+    <artist>Badly Drawn Boy</artist>
+    <artist>The Coral</artist>
+    <artist>Camera Obscura</artist>
+    <artist>Suede</artist>
+    <artist>Donovan</artist>
+    <artist>múm</artist>
+    <artist>Death in Vegas</artist>
+    <artist>Calexico</artist>
+    <artist>Tiga</artist>
+    <artist>The Whitest Boy Alive</artist>
+    <artist>The Raveonettes</artist>
+    <artist>Super Furry Animals</artist>
+    <artist>Beth Gibbons &amp; Rustin Man</artist>
+    <artist>Miss Kittin</artist>
+    <artist>Chicks on Speed</artist>
+    <artist>Daniel Johnston</artist>
+    <artist>808 State</artist>
+    <artist>ADULT.</artist>
+    <artist>Swayzak</artist>
+    <artist>Richard Hawley</artist>
+    <artist>ISAN</artist>
+    <artist>Suicide</artist>
+    <artist>Tahiti 80</artist>
+    <artist>Ms. John Soda</artist>
+    <artist>Layo &amp; Bushwacka!</artist>
+    <artist>The Delgados</artist>
+    <artist>2 Many DJ's</artist>
+    <artist>Black Box Recorder</artist>
+    <artist>Superpitcher</artist>
+    <artist>Michael Mayer</artist>
+    <artist>Katerine</artist>
+    <artist>Green Velvet</artist>
+    <artist>Louie Austen</artist>
+    <artist>Das Pop</artist>
+    <artist>JJ72</artist>
+    <artist>Pernice Brothers</artist>
+    <artist>Deluxe</artist>
+    <artist>The Sunday Drivers</artist>
+    <artist>Barbara Morgenstern</artist>
+    <artist>Nacho Vegas</artist>
+    <artist>Love Of Lesbian</artist>
+    <artist>Manual</artist>
+    <artist>Laika</artist>
+    <artist>Masha Qrella</artist>
+    <artist>Sr. Chinarro</artist>
+    <artist>La Habitación Roja</artist>
+    <artist>Jori Hulkkonen</artist>
+    <artist>Sexy Sadie</artist>
+    <artist>La Costa Brava</artist>
+    <artist>Todd Terry</artist>
+    <artist>Ellos</artist>
+    <artist>El Columpio Asesino</artist>
+    <artist>Electronicat</artist>
+    <artist>Hell</artist>
+    <artist>Si Begg</artist>
+    <artist>Terence Fixmer</artist>
+    <artist>The Jeevas</artist>
+    <artist>Gudrun Gut</artist>
+    <artist>Psychonauts</artist>
+    <artist>Manta Ray</artist>
+    <artist>Juniper Moon</artist>
+    <artist>Alek Stark</artist>
+    <artist>Cecilia Ann</artist>
+    <artist>Kitbuilders</artist>
+    <artist>Souvenir</artist>
+    <artist>März</artist>
+    <artist>The Zephyrs</artist>
+    <artist>Vacaciones</artist>
+    <artist>Budapest</artist>
+    <artist>Echoboy</artist>
+    <artist>Maral Salmassi</artist>
+    <artist>Calc</artist>
+    <artist>Magas</artist>
+    <artist>Sideral</artist>
+    <artist>Romina Cohn</artist>
+    <artist>Camelot</artist>
+    <artist>Ama</artist>
+    <artist>Strand</artist>
+    <artist>G.D. Luxxe</artist>
+    <artist>Hoggboy</artist>
+    <artist>Jet Lag</artist>
+    <artist>Kruder</artist>
+    <artist>zooey</artist>
+    <artist>Highfish</artist>
+    <artist>A Room With a View</artist>
+    <artist>Bondage</artist>
+    <artist>Daniel Miller</artist>
+    <artist>Lou Anne</artist>
+    <artist>Curfew</artist>
+    <artist>smart</artist>
+    <artist>BuenaVista</artist>
+    <artist>Flossy</artist>
+    <artist>Aldo Linares</artist>
+    <artist>Miguel Mendoza</artist>
+    <artist>John Maynard</artist>
+    <artist>Rec Overflow</artist>
+    <artist>Andy Fletcher</artist>
+    <artist>DJ Cynthusia</artist>
+    <artist>Las Perras</artist>
+    <artist>DJV Sound</artist>
+    <headliner>Beck</headliner>
+  </artists>
+  <venue>
+    <id>8783275</id>
+    <name>Benicassim</name>
+    <location>
+      <city>Castellón de la Plana</city>
+      <country>Spain</country>
+      <street>Benicàssim</street>
+      <postalcode>12560</postalcode>
+      <geo:point>
+         <geo:lat>40.055396</geo:lat>
+         <geo:long>0.06422</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8783275+Benicassim</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Fri, 08 Aug 2003 20:00:00</startDate>
+  <endDate>Sun, 10 Aug 2003 20:27:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/257211.png</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/257211.png</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/257211.png</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/257211.png</image>
+  <attendance>28</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=193422</tag>    
+  <url>http://www.last.fm/event/193422+FIB+Heineken+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>810302</id>
+  <title>SUMMER SONIC 2003</title>
+  <artists>
+    <artist>Radiohead</artist>
+    <artist>The Doors</artist>
+    <artist>The Strokes</artist>
+    <artist>Blur</artist>
+    <artist>blink-182</artist>
+    <artist>Interpol</artist>
+    <artist>Travis</artist>
+    <artist>Sum 41</artist>
+    <artist>Razorlight</artist>
+    <artist>Stereophonics</artist>
+    <artist>Good Charlotte</artist>
+    <artist>Blondie</artist>
+    <artist>AFI</artist>
+    <artist>The Mars Volta</artist>
+    <artist>Hot Hot Heat</artist>
+    <artist>New Found Glory</artist>
+    <artist>Starsailor</artist>
+    <artist>Mando Diao</artist>
+    <artist>Puddle of Mudd</artist>
+    <artist>Alkaline Trio</artist>
+    <artist>Sugarcult</artist>
+    <artist>My Morning Jacket</artist>
+    <artist>The Kills</artist>
+    <artist>The Rapture</artist>
+    <artist>Mew</artist>
+    <artist>Rooney</artist>
+    <artist>Devo</artist>
+    <artist>Cheap Trick</artist>
+    <artist>Zebrahead</artist>
+    <artist>The Rocket Summer</artist>
+    <artist>The Living End</artist>
+    <artist>ASIAN KUNG-FU GENERATION</artist>
+    <artist>ORANGE RANGE</artist>
+    <artist>The Jon Spencer Blues Explosion</artist>
+    <artist>The Greenhornes</artist>
+    <artist>The Datsuns</artist>
+    <artist>InMe</artist>
+    <artist>Polysics</artist>
+    <artist>東京スカパラダイスオーケストラ</artist>
+    <artist>BUCK-TICK</artist>
+    <artist>GO!GO!7188</artist>
+    <artist>HY</artist>
+    <artist>SOUL'd OUT</artist>
+    <artist>↑THE HIGH-LOWS↓</artist>
+    <artist>KICK THE CAN CREW</artist>
+    <artist>The Star Spangles</artist>
+    <artist>YKZ</artist>
+    <artist>The Army of Freshmen</artist>
+    <headliner>Radiohead</headliner>
+  </artists>
+  <venue>
+    <id>8818569</id>
+    <name>Chiba Marine Stadium &amp; Makuhari Messe</name>
+    <location>
+      <city>Chiba</city>
+      <country>Japan</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>35.6</geo:lat>
+         <geo:long>140.1166667</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8818569+Chiba+Marine+Stadium+%2526+Makuhari+Messe</url>
+    <website></website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>  <startDate>Sat, 02 Aug 2003 10:53:01</startDate>
+  <endDate>Sun, 03 Aug 2003 10:53:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/24256385.png</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/24256385.png</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/24256385.png</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/24256385.png</image>
+  <attendance>5</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=810302</tag>    
+  <url>http://www.last.fm/event/810302+SUMMER+SONIC+2003</url>
+  <website>http://www.summersonic.com/03SSpages</website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>316040</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778484</id>
+    <name>Métropolis</name>
+    <location>
+      <city>Montreal</city>
+      <country>Canada</country>
+      <street>59 Sainte-Catherine Street East</street>
+      <postalcode>H2X 1K5</postalcode>
+      <geo:point>
+         <geo:lat>45.510569</geo:lat>
+         <geo:long>-73.563206</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778484+M%C3%A9tropolis</url>
+    <website>http://www.metropolismontreal.ca</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/52207.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/52207.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/52207.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/52207.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/52207/Mtropolis.jpg</image>
+  </venue>  <startDate>Wed, 23 Jul 2003 21:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=316040</tag>    
+  <url>http://www.last.fm/event/316040+Blur+at+M%C3%A9tropolis+on+23+July+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>637768</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Moving Units</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778230</id>
+    <name>Kool Haus</name>
+    <location>
+      <city>Toronto</city>
+      <country>Canada</country>
+      <street>132 Queens Quay East</street>
+      <postalcode>M5A 3Y5</postalcode>
+      <geo:point>
+         <geo:lat>43.644554</geo:lat>
+         <geo:long>-79.366844</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778230+Kool+Haus</url>
+    <website>http://www.theguvernment.com</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/244687.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/244687.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/244687.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/244687.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/244687/Kool+Haus.jpg</image>
+  </venue>  <startDate>Mon, 21 Jul 2003 19:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>2</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=637768</tag>    
+  <url>http://www.last.fm/event/637768+Blur+at+Kool+Haus+on+21+July+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>25381</id>
+  <title>Blur</title>
+  <artists>
+    <artist>Blur</artist>
+    <artist>Moving Units</artist>
+    <headliner>Blur</headliner>
+  </artists>
+  <venue>
+    <id>8778684</id>
+    <name>Hammerstein Ballroom</name>
+    <location>
+      <city>New York</city>
+      <country>United States</country>
+      <street>311 West 34th St.</street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>40.752477</geo:lat>
+         <geo:long>-73.994094</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778684+Hammerstein+Ballroom</url>
+    <website>http://www.ticketmaster.com/venue/280</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/84752.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/84752.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/84752.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/84752.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/84752/Hammerstein+Ballroom.jpg</image>
+  </venue>  <startDate>Thu, 17 Jul 2003 16:58:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/364260.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/364260.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/364260.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/364260.jpg</image>
+  <attendance>3</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=25381</tag>    
+  <url>http://www.last.fm/event/25381+Blur+at+Hammerstein+Ballroom+on+17+July+2003</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>45179</id>
+  <title>Roskilde Festival '03</title>
+  <artists>
+    <artist>Metallica</artist>
+    <artist>Coldplay</artist>
+    <artist>Blur</artist>
+    <artist>Massive Attack</artist>
+    <artist>Interpol</artist>
+    <artist>Björk</artist>
+    <artist>Queens of the Stone Age</artist>
+    <artist>Sigur Rós</artist>
+    <artist>Iron Maiden</artist>
+    <artist>The Cardigans</artist>
+    <artist>Doves</artist>
+    <artist>Yo La Tengo</artist>
+    <artist>The Streets</artist>
+    <artist>The Kills</artist>
+    <artist>De La Soul</artist>
+    <artist>Mew</artist>
+    <artist>Chicane</artist>
+    <artist>Xzibit</artist>
+    <artist>The Sounds</artist>
+    <artist>Bonnie 'Prince' Billy</artist>
+    <artist>Gogol Bordello</artist>
+    <artist>dZihan &amp; Kamien</artist>
+    <artist>The Raveonettes</artist>
+    <artist>Gus Gus</artist>
+    <artist>Electric Six</artist>
+    <artist>Asian Dub Foundation</artist>
+    <artist>Junkie XL</artist>
+    <artist>Aesop Rock</artist>
+    <artist>The Polyphonic Spree</artist>
+    <artist>Beth Gibbons &amp; Rustin Man</artist>
+    <artist>Daniel Bedingfield</artist>
+    <artist>Lemon Jelly</artist>
+    <artist>Dirty Vegas</artist>
+    <artist>Chicks on Speed</artist>
+    <artist>Los Lobos</artist>
+    <artist>Dave Gahan</artist>
+    <artist>The Hellacopters</artist>
+    <artist>Melvins</artist>
+    <artist>FC/Kahuna</artist>
+    <artist>Little Brother</artist>
+    <artist>Fu Manchu</artist>
+    <artist>Brendan Benson</artist>
+    <artist>Immortal</artist>
+    <artist>Daniel Johnston</artist>
+    <artist>El-P</artist>
+    <artist>Kashmir</artist>
+    <artist>The Black Heart Procession</artist>
+    <artist>Moneybrother</artist>
+    <artist>Murderdolls</artist>
+    <artist>Suicide</artist>
+    <artist>Junior Kelly</artist>
+    <artist>The Datsuns</artist>
+    <artist>Metro Area</artist>
+    <artist>The Delgados</artist>
+    <artist>Salif Keita</artist>
+    <artist>Sander Kleinenberg</artist>
+    <artist>Kaizers Orchestra</artist>
+    <artist>Console</artist>
+    <artist>Figurines</artist>
+    <artist>Hawksley Workman</artist>
+    <artist>Karamelo Santo</artist>
+    <artist>Bill Laswell</artist>
+    <artist>Christian Kjellvander</artist>
+    <artist>Tony Allen</artist>
+    <artist>Carlinhos Brown</artist>
+    <artist>The Eighties Matchbox B-Line Disaster</artist>
+    <artist>Material</artist>
+    <artist>Filur</artist>
+    <artist>Frost</artist>
+    <artist>Moi Caprice</artist>
+    <artist>Erol Alkan</artist>
+    <artist>Afel Bocoum</artist>
+    <artist>Electric Eel Shock</artist>
+    <artist>Mike Ladd</artist>
+    <artist>Massacre</artist>
+    <artist>Cosmos</artist>
+    <artist>Little Axe</artist>
+    <artist>The Blue Van</artist>
+    <artist>Malk De Koijn</artist>
+    <artist>Baby Woodrose</artist>
+    <artist>Advance Patrol</artist>
+    <artist>Cato Salsa Experience</artist>
+    <artist>Hernan Cattaneo</artist>
+    <artist>Artificial Funk</artist>
+    <artist>Fushitsusha</artist>
+    <artist>Fifty Foot Combo</artist>
+    <artist>Lars H.U.G.</artist>
+    <artist>Darren Emerson</artist>
+    <artist>Moder Jords Massiva</artist>
+    <artist>Jony Iliev &amp; Band</artist>
+    <artist>DJ Dolores &amp; Orchestra Santa Massa</artist>
+    <artist>Equicez</artist>
+    <artist>Loose Cannons</artist>
+    <artist>Kitty Wu</artist>
+    <artist>The Magic Bullet Theory</artist>
+    <artist>Ikscheltaschel</artist>
+    <artist>Magnified Eye</artist>
+    <artist>Frederic Galliano &amp; The African Divas</artist>
+    <artist>Mad Con</artist>
+    <artist>Limf</artist>
+    <artist>Love Julie</artist>
+    <artist>Fjernsyn Fjernsyn</artist>
+    <artist>GÅTE</artist>
+    <artist>Marcus Intalex &amp; DJ Lee</artist>
+    <artist>Gentlemen &amp; The Far East Band</artist>
+    <artist>Deathdisco</artist>
+    <artist>Hobby Industries Summer Camp</artist>
+    <artist>DJ Mescal</artist>
+    <artist>HE DATSUNS</artist>
+    <artist>Maâllem Mokhtar Gania</artist>
+    <headliner>Metallica</headliner>
+  </artists>
+  <venue>
+    <id>8784070</id>
+    <name>Roskilde Festival</name>
+    <location>
+      <city>Roskilde</city>
+      <country>Denmark</country>
+      <street>Dyrskuepladsen, Darupvej</street>
+      <postalcode>4000</postalcode>
+      <geo:point>
+         <geo:lat>55.630108</geo:lat>
+         <geo:long>12.083908</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8784070+Roskilde+Festival</url>
+    <website>http://www.roskilde-festival.dk/uk/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/561031.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/561031.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/561031.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/561031.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/561031/Roskilde+Festival.jpg</image>
+  </venue>  <startDate>Thu, 26 Jun 2003 11:24:01</startDate>
+  <endDate>Sun, 29 Jun 2003 11:24:01</endDate>
+  <description><![CDATA[<div class="bbcode"><img src="http://www.roskilde-festival.dk/db/images/plakat_03.jpg" /></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/39683323.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/39683323.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/39683323.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/39683323.jpg</image>
+  <attendance>84</attendance>
+  <reviews>1</reviews>
+  <tag>lastfm:event=45179</tag>    
+  <url>http://www.last.fm/event/45179+Roskilde+Festival+%2703</url>
+  <website>http://www.roskilde-festival.dk</website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>310750</id>
+  <title>Free Rock 03</title>
+  <artists>
+    <artist>Radiohead</artist>
+    <artist>Weezer</artist>
+    <artist>Blur</artist>
+    <artist>Pearl Jam</artist>
+    <artist>Jimmy Eat World</artist>
+    <artist>Bon Jovi</artist>
+    <artist>Röyksopp</artist>
+    <artist>Sum 41</artist>
+    <artist>Good Charlotte</artist>
+    <artist>Groove Armada</artist>
+    <artist>Matchbox Twenty</artist>
+    <artist>David Guetta</artist>
+    <artist>The Dandy Warhols</artist>
+    <artist>DJ Shadow</artist>
+    <artist>Richard Ashcroft</artist>
+    <artist>Crazy Town</artist>
+    <artist>The Raveonettes</artist>
+    <artist>Idlewild</artist>
+    <artist>Duman</artist>
+    <artist>Vega</artist>
+    <artist>Özlem Tekin</artist>
+    <artist>Jay jay Johansson</artist>
+    <headliner>Radiohead</headliner>
+  </artists>
+  <venue>
+    <id>8851939</id>
+    <name>Dogzstar</name>
+    <location>
+      <city>İstanbul</city>
+      <country>Turkey</country>
+      <street></street>
+      <postalcode></postalcode>
+      <geo:point>
+         <geo:lat>41.0186111</geo:lat>
+         <geo:long>28.9647222</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8851939+Dogzstar</url>
+    <website>http://www.dogzstar.com/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/592765.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/592765.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/592765.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/592765.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/592765/Dogzstar.jpg</image>
+  </venue>  <startDate>Fri, 20 Jun 2003 00:00:00</startDate>
+  <endDate>Sun, 22 Jun 2003 22:29:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/24256385.png</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/24256385.png</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/24256385.png</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/24256385.png</image>
+  <attendance>0</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=310750</tag>    
+  <url>http://www.last.fm/event/310750+Free+Rock+03</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>717907</id>
+  <title>Field Day Festival</title>
+  <artists>
+    <artist>Beastie Boys</artist>
+    <artist>Radiohead</artist>
+    <artist>Beck</artist>
+    <artist>Blur</artist>
+    <artist>Bright Eyes</artist>
+    <artist>Elliott Smith</artist>
+    <artist>Underworld</artist>
+    <artist>My Morning Jacket</artist>
+    <artist>Thursday</artist>
+    <artist>Beth Orton</artist>
+    <artist>Liz Phair</artist>
+    <artist>Spiritualized</artist>
+    <headliner>Beastie Boys</headliner>
+  </artists>
+  <venue>
+    <id>8832782</id>
+    <name>Giants Stadium</name>
+    <location>
+      <city>East Rutherford</city>
+      <country>United States</country>
+      <street>50 Route 120</street>
+      <postalcode>07073</postalcode>
+      <geo:point>
+         <geo:lat>39.69306</geo:lat>
+         <geo:long>-74.94306</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8832782+Giants+Stadium</url>
+    <website>http://www.giants.com</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/25148183.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/25148183.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/25148183.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/25148183.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/25148183/Giants+Stadium++aerial.jpg</image>
+  </venue>  <startDate>Sat, 07 Jun 2003 04:17:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/392387.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/392387.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/392387.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/392387.jpg</image>
+  <attendance>9</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=717907</tag>    
+  <url>http://www.last.fm/event/717907+Field+Day+Festival</url>
+  <website></website>
+  <tickets>
+  </tickets>
+  <cancelled>0</cancelled>
+  </event></events></lfm>
