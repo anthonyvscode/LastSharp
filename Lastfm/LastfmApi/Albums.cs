@@ -48,7 +48,7 @@ namespace Lastfm
             if (!string.IsNullOrEmpty(lang))
                 request.AddParameter("lang", lang);
 
-            return Execute<Album>(request);
+            return Execute<LastfmResponse<Album>>(request).Data.Value;
         }
 
         #endregion

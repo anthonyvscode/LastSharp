@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lastfm.Model
 {
-    public class TopAlbumsLists : LastfmBase
+    public class TopAlbumsLists
     {
         public List<Album> topalbums { get; set; }
     }

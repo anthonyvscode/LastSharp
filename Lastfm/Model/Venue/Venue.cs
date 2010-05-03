@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lastfm.Model
 {
-    public class Venue : LastfmBase
+    public class Venue
     {
         public string id { get; set; }
         public string name { get; set; }

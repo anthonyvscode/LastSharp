@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lastfm.Model
 {
-    public class VenueList : LastfmBase
+    public class VenueList
     {
         public string query {get; set;}
         public string totalResults { get; set; }

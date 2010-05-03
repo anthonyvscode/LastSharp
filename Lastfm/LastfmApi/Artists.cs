@@ -25,7 +25,7 @@ namespace Lastfm
             request.AddParameter("method", "artist.getevents");
             request.AddParameter("artist", artist);
 
-            return Execute<EventsList>(request);
+            return Execute<LastfmResponse<EventsList>>(request).Data.Value;
         }
 
         #endregion
@@ -63,7 +63,7 @@ namespace Lastfm
             if (order != null)
                 request.AddParameter("order", order);
 
-            return Execute<ImageList>(request);
+            return Execute<LastfmResponse<ImageList>>(request).Data.Value;
         }
 
         #endregion
@@ -113,7 +113,9 @@ namespace Lastfm
             if (!string.IsNullOrEmpty(lang))
                 request.AddParameter("lang", lang);
 
-            return Execute<Artist>(request);
+            var response = Execute<LastfmResponse<Artist>>(request);
+
+            return response.Data.Value;
         }
 
         #endregion
@@ -149,7 +151,7 @@ namespace Lastfm
             if (limit != null)
                 request.AddParameter("limit", limit);
 
-            return Execute<EventsList>(request);
+            return Execute<LastfmResponse<EventsList>>(request).Data.Value;
         }
 
         #endregion
@@ -168,7 +170,7 @@ namespace Lastfm
             request.AddParameter("method", "artist.getpodcast");
             request.AddParameter("artist", artist);
 
-            return Execute<PodcastChannel>(request);
+            return Execute<LastfmResponse<PodcastChannel>>(request).Data.Value;
         }
 
         #endregion
@@ -203,7 +205,7 @@ namespace Lastfm
             if (limit != null)
                 request.AddParameter("limit", limit);
 
-            return Execute<ShoutList>(request);
+            return Execute<LastfmResponse<ShoutList>>(request).Data.Value;
         }
 
         #endregion
@@ -236,7 +238,7 @@ namespace Lastfm
             if (limit != null)
                 request.AddParameter("limit", limit);
 
-            return Execute<SimilarArtistList>(request);
+            return Execute<LastfmResponse<SimilarArtistList>>(request).Data.Value;
         }
         #endregion
 
@@ -254,7 +256,7 @@ namespace Lastfm
             request.AddParameter("artist", artist);
 
             //TODO: this requires authentication for some reason. so for now, it does nothing.
-            return Execute<TagList>(request);
+            return Execute<LastfmResponse<TagList>>(request).Data.Value;
         }
 
         #endregion
@@ -273,7 +275,7 @@ namespace Lastfm
             request.AddParameter("artist", artist);
 
             //TODO: this requires authentication for some reason. so for now, it does nothing.
-            return Execute<TopAlbumsLists>(request);
+            return Execute<LastfmResponse<TopAlbumsLists>>(request).Data.Value;
         }
 
 
@@ -293,7 +295,7 @@ namespace Lastfm
             request.AddParameter("artist", artist);
 
             //TODO: this requires authentication for some reason. so for now, it does nothing.
-            return Execute<FanList>(request);
+            return Execute<LastfmResponse<FanList>>(request).Data.Value;
         }
 
 
@@ -313,7 +315,7 @@ namespace Lastfm
             request.AddParameter("artist", artist);
 
             //TODO: this requires authentication for some reason. so for now, it does nothing.
-            return Execute<TopTagList>(request);
+            return Execute<LastfmResponse<TopTagList>>(request).Data.Value;
         }
 
 

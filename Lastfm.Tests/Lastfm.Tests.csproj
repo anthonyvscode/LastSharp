@@ -35,7 +35,7 @@
   <ItemGroup>
     <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="RestSharp">
-      <HintPath>..\Lastfm\bin\RestSharp.dll</HintPath>
+      <HintPath>..\Lib\RestSharp.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
@@ -50,8 +50,9 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GeneralTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Artists.cs" />
+    <Compile Include="ArtistsTests.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
@@ -64,6 +65,7 @@
     <Content Include="Responses\Artist\artistGetEvents.xml" />
     <Content Include="Responses\Artist\artistGetImages.xml" />
     <Content Include="Responses\Artist\artistGetInfo.xml" />
+    <Content Include="Responses\Error.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

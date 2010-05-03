@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lastfm.Model
 {
-    public class ImageList : LastfmBase
+    public class ImageList
     {
         public List<Image> images { get; set; }
     }

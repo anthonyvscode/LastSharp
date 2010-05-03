@@ -55,7 +55,7 @@ namespace Lastfm
             request.AddParameter("venue", venue);
             request.AddParameter("method", "venue.search");
 
-            return Execute<VenueList>(request);
+            return Execute<LastfmResponse<VenueList>>(request).Data.Value;
         }
         #endregion
 
@@ -72,7 +72,7 @@ namespace Lastfm
             request.AddParameter("method", "venue.getevents");
             request.AddParameter("venue", venueId);
 
-            return Execute<EventsList>(request);
+            return Execute<LastfmResponse<EventsList>>(request).Data.Value;
         }
 
         #endregion
@@ -105,7 +105,7 @@ namespace Lastfm
             if (limit != null)
                 request.AddParameter("limit", limit);
 
-            return Execute<EventsList>(request);
+            return Execute<LastfmResponse<EventsList>>(request).Data.Value;
         }
 
         #endregion

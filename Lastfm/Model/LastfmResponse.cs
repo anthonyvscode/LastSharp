@@ -5,17 +5,18 @@ using System.Text;
 
 namespace Lastfm.Model
 {
-    public abstract class LastfmBase
+    public class LastfmResponse<T>
     {
-        public string status { get; set; }
-        public Error error { get; set; }
+        public T Value { get; set; }
+        public string Status { get; set; }
+        public Error Error { get; set; }
         public bool IsValid
         {
             get
             {
-                if (status == "ok")
+                if (Status == "ok")
                     return true;
-                else if (status == "failed")
+                else if (Status == "failed")
                     return false;
                 return false;
             }
@@ -25,6 +26,6 @@ namespace Lastfm.Model
     public class Error
     {
         public string Value { get; set; }
-        public int code { get; set; }
+        public int Code { get; set; }
     }
 }

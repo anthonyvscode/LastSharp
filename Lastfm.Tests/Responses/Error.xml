@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<lfm status="failed">
+  <error code="6">Invalid Params - Please supply a valid artist name or musicbrainz id</error>
+</lfm>

@@ -2,15 +2,18 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using RestSharp.Serializers;
 
 namespace Lastfm.Model
 {
-    public class Album : LastfmBase
+    public class Album
     {
-        public int rank { get; set; }
-        public string name { get; set; }
-        public int playcount { get; set; }
-        public string mbid { get; set; }
+        public int Rank { get; set; }
+        public string Name { get; set; }
+        public int Playcount { get; set; }
+
+        [SerializeAs(Name = "mbid")]
+        public string MusicBrainzID { get; set; }
         public string url { get; set; }
         public ArtistMini artist { get; set; }
         //TODO: images.

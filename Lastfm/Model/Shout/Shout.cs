@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lastfm.Model
 {
-    public class Shout : LastfmBase
+    public class Shout
     {
         public string author { get; set; }
         public string body { get; set; }

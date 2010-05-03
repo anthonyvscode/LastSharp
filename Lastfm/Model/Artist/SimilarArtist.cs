@@ -5,9 +5,9 @@ using System.Text;
 
 namespace Lastfm.Model
 {
-    public class SimilarArtist : LastfmBase
+    public class SimilarArtist
     {
-        public string name {get;set;}
+        public string Name {get;set;}
         public Guid mbid {get;set;} //TODO: make restsharp return Guid.Empty instead of causing an exception.
         public decimal match {get; set;}
         public string url {get; set;}

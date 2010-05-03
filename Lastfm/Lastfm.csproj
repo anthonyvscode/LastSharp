@@ -34,7 +34,7 @@
   <ItemGroup>
     <Reference Include="RestSharp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\RestSharp.dll</HintPath>
+      <HintPath>..\Lib\RestSharp.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -53,12 +53,12 @@
     <Compile Include="Model\Artist\PodcastChannel.cs" />
     <Compile Include="Model\Album\Album.cs" />
     <Compile Include="Model\Album\TopAlbumsList.cs" />
+    <Compile Include="Model\LastfmResponse.cs" />
     <Compile Include="Model\Tag\TagList.cs" />
     <Compile Include="Model\Artist\SimilarArtistList.cs" />
     <Compile Include="Model\Image\Image.cs" />
     <Compile Include="Model\Image\ImageList.cs" />
     <Compile Include="Model\Event\Event.cs" />
-    <Compile Include="Model\LastfmBase.cs" />
     <Compile Include="Model\Shout\Shout.cs" />
     <Compile Include="Model\Shout\ShoutList.cs" />
     <Compile Include="Model\Artist\SimilarArtist.cs" />

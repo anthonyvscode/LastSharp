@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lastfm.Model
 {
-    public class Ticket : LastfmBase
+    public class Ticket
     {
         public string ticket { get; set; }
         public string supplier { get; set; }

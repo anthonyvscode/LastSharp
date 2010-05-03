@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lastfm.Model
 {
-    public class SimilarArtistList : LastfmBase
+    public class SimilarArtistList
     {
         public int streamable { get; set; }
         public string artist { get; set; }

@@ -21,7 +21,9 @@ namespace Lastfm
             request.AddParameter("method", "event.getShouts");
             request.AddParameter("event", eventId);
 
-            return Execute<ShoutList>(request);
+            var response = Execute<LastfmResponse<ShoutList>>(request);
+
+            return response.Data.Value;
         }
 
         #endregion
@@ -38,7 +40,7 @@ namespace Lastfm
             request.AddParameter("method", "event.getinfo");
             request.AddParameter("event", eventId);
 
-            return Execute<Event>(request);
+            return Execute<LastfmResponse<Event>>(request).Data.Value;
         }
 
         #endregion

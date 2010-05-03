@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lastfm.Model
 {
-    public class PodcastChannel : LastfmBase
+    public class PodcastChannel
     {
         public string title { get; set; }
         public string link { get; set; }

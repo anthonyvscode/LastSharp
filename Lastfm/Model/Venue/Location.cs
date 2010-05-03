@@ -2,21 +2,24 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using RestSharp.Serializers;
 
 namespace Lastfm.Model
 {
-    public class Location : LastfmBase
+    public class Location
     {
-        public string city { get; set; }
-        public string country { get; set; }
-        public string street { get; set; }
-        public string postalcode { get; set; }
-        public Point point { get; set; }
+        public string City { get; set; }
+        public string Country { get; set; }
+        public string Street { get; set; }
+        public string PostalCode { get; set; }
+        public Point Point { get; set; }
     }
 
     public class Point
     {
-        public decimal? lat { get; set; }
-        public decimal? _long {get; set;}
+        [SerializeAs(Name = "lat")]
+        public decimal? Latitude { get; set; }
+        [SerializeAs(Name = "_long")]
+        public decimal? Longitude {get; set;}
     }
 }

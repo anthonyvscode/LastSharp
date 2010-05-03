@@ -5,8 +5,8 @@ using System.Text;
 
 namespace Lastfm.Model
 {
-    public class EventsList : LastfmBase
+    public class EventsList
     {
-        public List<Event> events { get; set; }
+        public List<Event> Events { get; set; }
     }
 }

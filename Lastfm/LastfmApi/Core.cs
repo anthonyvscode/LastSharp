@@ -14,6 +14,7 @@ namespace Lastfm
         private readonly string _apiKey;
         private readonly string _secretKey;
         public int apiCalls;
+        private RestClient _client;
 
         /// <summary>
         /// Initialize the library with only an API key.
@@ -22,6 +23,7 @@ namespace Lastfm
         public LastfmApi(string apiKey)
         {
             _apiKey = apiKey;
+            _client = new RestClient(BaseUrl);
         }
 
         /// <summary>
@@ -35,24 +37,20 @@ namespace Lastfm
             _secretKey = secretKey;
         }
 
-        public T Execute<T>(RestRequest request) where T : new()
+        public RestResponse<T> Execute<T>(RestRequest request) where T : new()
         {
-            var client = new RestClient();
-            client.BaseUrl = BaseUrl;
             request.AddParameter("api_key", _apiKey);
 
-            RestResponse<T> response = client.Execute<T>(request);
+            RestResponse<T> response = _client.Execute<T>(request);
             apiCalls++;
-            return response.Data;
+            return response;
         }
 
         public RestResponse Execute(RestRequest request)
         {
-            var client = new RestClient();
-            client.BaseUrl = BaseUrl;
             request.AddParameter("api_key", _apiKey, ParameterType.UrlSegment);
             apiCalls++;
-            return client.Execute(request);
+            return _client.Execute(request);
         }
     }
 }
