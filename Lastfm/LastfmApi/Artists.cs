@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using Lastfm.Model;
 using RestSharp;
-using System.Globalization;
 
 namespace Lastfm
 {
@@ -19,13 +15,13 @@ namespace Lastfm
         /// </summary>
         /// <param name="artist">The artist name in question.</param>
         /// <returns>future events happening by the artist</returns>
-        public EventsList artistGetEvents(string artist)
+        public LastfmResponse<EventsList> artistGetEvents(string artist)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "artist.getevents");
             request.AddParameter("artist", artist);
 
-            return Execute<LastfmResponse<EventsList>>(request).Data.Value;
+            return Execute<LastfmResponse<EventsList>>(request).Data;
         }
 
         #endregion
@@ -37,7 +33,7 @@ namespace Lastfm
         /// </summary>
         /// <param name="artist">The artist name in question.</param>
         /// <returns></returns>
-        public ImageList artistGetImages(string artist)
+        public LastfmResponse<ImageList> artistGetImages(string artist)
         {
             return artistGetImages(artist, null, null, null);
         }
@@ -50,7 +46,7 @@ namespace Lastfm
         /// <param name="limit">How many to return. Defaults and maxes out at 50.</param>
         /// <param name="order">Sort ordering can be either 'popularity' (default) or 'dateadded'. While ordering by popularity officially selected images by labels and artists will be ordered first.</param>
         /// <returns></returns>
-        public ImageList artistGetImages(string artist, int? page, int? limit, Utilities.Enums.Order? order)
+        public LastfmResponse<ImageList> artistGetImages(string artist, int? page, int? limit, Utilities.Enums.Order? order)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "artist.getimages");
@@ -63,7 +59,7 @@ namespace Lastfm
             if (order != null)
                 request.AddParameter("order", order);
 
-            return Execute<LastfmResponse<ImageList>>(request).Data.Value;
+            return Execute<LastfmResponse<ImageList>>(request).Data;
         }
 
         #endregion
@@ -75,7 +71,7 @@ namespace Lastfm
         /// </summary>
         /// <param name="artist">The artist name in question</param>
         /// <returns></returns>
-        public Artist artistGetInfo(string artist)
+        public LastfmResponse<Artist> artistGetInfo(string artist)
         {
             return artistGetInfo(artist, null, string.Empty, null);
         }
@@ -84,7 +80,7 @@ namespace Lastfm
         /// </summary>
         /// <param name="mbid">The musicbrainz id for the artist</param>
         /// <returns></returns>
-        public Artist artistGetInfo(Guid mbid)
+        public LastfmResponse<Artist> artistGetInfo(Guid mbid)
         {
             return artistGetInfo(string.Empty, mbid, string.Empty, null);
         }
@@ -96,7 +92,7 @@ namespace Lastfm
         /// <param name="username">The username for the context of the request. If supplied, the user's playcount for this artist is included in the response.</param>
         /// <param name="lang">The language to return the biography in, expressed as an ISO 639 alpha-2 code.</param>
         /// <returns></returns>
-        public Artist artistGetInfo(string artist, Guid? mbid, string username, string lang)
+        public LastfmResponse<Artist> artistGetInfo(string artist, Guid? mbid, string username, string lang)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "artist.getInfo");
@@ -115,7 +111,7 @@ namespace Lastfm
 
             var response = Execute<LastfmResponse<Artist>>(request);
 
-            return response.Data.Value;
+            return response.Data;
         }
 
         #endregion
@@ -129,7 +125,7 @@ namespace Lastfm
         /// <param name="limit">The maximum number of results to return per page</param>
         /// <param name="page">The page of results to return.</param>
         /// <returns>past events by the artist</returns>
-        public EventsList artistGetPastEvents(string artist)
+        public LastfmResponse<EventsList> artistGetPastEvents(string artist)
         {
             return artistGetPastEvents(artist, null, null);
         }
@@ -141,7 +137,7 @@ namespace Lastfm
         /// <param name="limit">The maximum number of results to return per page</param>
         /// <param name="page">The page of results to return.</param>
         /// <returns>past events by the artist</returns>
-        public EventsList artistGetPastEvents(string artist, int? page, int? limit)
+        public LastfmResponse<EventsList> artistGetPastEvents(string artist, int? page, int? limit)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "artist.getpastevents");
@@ -151,7 +147,7 @@ namespace Lastfm
             if (limit != null)
                 request.AddParameter("limit", limit);
 
-            return Execute<LastfmResponse<EventsList>>(request).Data.Value;
+            return Execute<LastfmResponse<EventsList>>(request).Data;
         }
 
         #endregion
@@ -164,13 +160,13 @@ namespace Lastfm
         /// </summary>
         /// <param name="artist">The Artist name in question.</param>
         /// <returns></returns>
-        public PodcastChannel artistGetPodcast(string artist)
+        public LastfmResponse<PodcastChannel> artistGetPodcast(string artist)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "artist.getpodcast");
             request.AddParameter("artist", artist);
 
-            return Execute<LastfmResponse<PodcastChannel>>(request).Data.Value;
+            return Execute<LastfmResponse<PodcastChannel>>(request).Data;
         }
 
         #endregion
@@ -182,7 +178,7 @@ namespace Lastfm
         /// </summary>
         /// <param name="artist">The artist name in question</param>
         /// <returns>A paged list of shouts for this artist</returns>
-        public ShoutList artistGetShouts(string artist)
+        public LastfmResponse<ShoutList> artistGetShouts(string artist)
         {
             return artistGetShouts(artist, null, null);
         }
@@ -195,7 +191,7 @@ namespace Lastfm
         /// <param name="limit">An integer used to limit the number of shouts returned per page. The default is 50.</param>
         /// <param name="page">The page number to fetch.</param>
         /// <returns>A paged list of shouts for this artist</returns>
-        public ShoutList artistGetShouts(string artist, int? page, int? limit)
+        public LastfmResponse<ShoutList> artistGetShouts(string artist, int? page, int? limit)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "artist.getshouts");
@@ -205,7 +201,7 @@ namespace Lastfm
             if (limit != null)
                 request.AddParameter("limit", limit);
 
-            return Execute<LastfmResponse<ShoutList>>(request).Data.Value;
+            return Execute<LastfmResponse<ShoutList>>(request).Data;
         }
 
         #endregion
@@ -219,7 +215,7 @@ namespace Lastfm
         /// </summary>
         /// <param name="artist">The artist name in question</param>
         /// <returns>artists similar to this artist</returns>
-        public SimilarArtistList artistGetSimilar(string artist)
+        public LastfmResponse<SimilarArtistList> artistGetSimilar(string artist)
         {
             return artistGetSimilar(artist, null);
         }
@@ -230,7 +226,7 @@ namespace Lastfm
         /// <param name="artist">The artist name in question</param>
         /// <param name="limit">Limit the number of similar artists returned.</param>
         /// <returns>artists similar to this artist</returns>
-        public SimilarArtistList artistGetSimilar(string artist, int? limit)
+        public LastfmResponse<SimilarArtistList> artistGetSimilar(string artist, int? limit)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "artist.getsimilar");
@@ -238,7 +234,7 @@ namespace Lastfm
             if (limit != null)
                 request.AddParameter("limit", limit);
 
-            return Execute<LastfmResponse<SimilarArtistList>>(request).Data.Value;
+            return Execute<LastfmResponse<SimilarArtistList>>(request).Data;
         }
         #endregion
 
@@ -249,14 +245,14 @@ namespace Lastfm
         /// </summary>
         /// <param name="artist"></param>
         /// <returns></returns>
-        public TagList artistGetTags(string artist)
+        public LastfmResponse<TagList> artistGetTags(string artist)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "artist.gettags");
             request.AddParameter("artist", artist);
 
             //TODO: this requires authentication for some reason. so for now, it does nothing.
-            return Execute<LastfmResponse<TagList>>(request).Data.Value;
+            return Execute<LastfmResponse<TagList>>(request).Data;
         }
 
         #endregion
@@ -268,14 +264,14 @@ namespace Lastfm
         /// </summary>
         /// <param name="artist">The artist name in question</param>
         /// <returns>The top albums for an artist on Last.fm, ordered by popularity.</returns>
-        public TopAlbumsLists artistGetTopAlbums(string artist)
+        public LastfmResponse<TopAlbumsLists> artistGetTopAlbums(string artist)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "artist.gettopalbums");
             request.AddParameter("artist", artist);
 
             //TODO: this requires authentication for some reason. so for now, it does nothing.
-            return Execute<LastfmResponse<TopAlbumsLists>>(request).Data.Value;
+            return Execute<LastfmResponse<TopAlbumsLists>>(request).Data;
         }
 
 
@@ -288,14 +284,14 @@ namespace Lastfm
         /// </summary>
         /// <param name="artist">The artist name in question</param>
         /// <returns>Get the top fans for an artist on Last.fm, based on listening data.</returns>
-        public FanList artistGetTopFans(string artist)
+        public LastfmResponse<FanList> artistGetTopFans(string artist)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "artist.gettopfans");
             request.AddParameter("artist", artist);
 
             //TODO: this requires authentication for some reason. so for now, it does nothing.
-            return Execute<LastfmResponse<FanList>>(request).Data.Value;
+            return Execute<LastfmResponse<FanList>>(request).Data;
         }
 
 
@@ -308,14 +304,14 @@ namespace Lastfm
         /// </summary>
         /// <param name="artist">The artist name in question</param>
         /// <returns>Get the top tags for an artist on Last.fm, ordered by popularity.</returns>
-        public TopTagList artistGetTopTags(string artist)
+        public LastfmResponse<TopTagList> artistGetTopTags(string artist)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "artist.gettoptags");
             request.AddParameter("artist", artist);
 
             //TODO: this requires authentication for some reason. so for now, it does nothing.
-            return Execute<LastfmResponse<TopTagList>>(request).Data.Value;
+            return Execute<LastfmResponse<TopTagList>>(request).Data;
         }
 
 

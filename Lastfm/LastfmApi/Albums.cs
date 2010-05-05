@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using Lastfm.Model;
 using RestSharp;
-using System.Globalization;
 
 namespace Lastfm
 {
@@ -13,12 +9,12 @@ namespace Lastfm
         #region album.getInfo
 
 
-        public Album albumGetInfo(string artist, string album)
+        public LastfmResponse<Album> albumGetInfo(string artist, string album)
         {
             return albumGetInfo(artist, album, null, null, null);
         }
 
-        public Album albumGetInfo(string artist, Guid mbid)
+        public LastfmResponse<Album> albumGetInfo(string artist, Guid mbid)
         {
             return albumGetInfo(artist, null, mbid, null, null);
         }
@@ -31,7 +27,7 @@ namespace Lastfm
         /// <param name="username">The username for the context of the request. If supplied, the user's playcount for this artist is included in the response.</param>
         /// <param name="lang">The language to return the biography in, expressed as an ISO 639 alpha-2 code.</param>
         /// <returns></returns>
-        public Album albumGetInfo(string artist, string album, Guid? mbid, string username, string lang)
+        public LastfmResponse<Album> albumGetInfo(string artist, string album, Guid? mbid, string username, string lang)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "album.getinfo");
@@ -48,7 +44,7 @@ namespace Lastfm
             if (!string.IsNullOrEmpty(lang))
                 request.AddParameter("lang", lang);
 
-            return Execute<LastfmResponse<Album>>(request).Data.Value;
+            return Execute<LastfmResponse<Album>>(request).Data;
         }
 
         #endregion

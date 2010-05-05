@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Lastfm.Model;
+﻿using Lastfm.Model;
 using RestSharp;
 
 namespace Lastfm
@@ -15,7 +11,7 @@ namespace Lastfm
         /// Get the metadata for an event on Last.fm. Includes attendance and lineup information. 
         /// </summary>
         /// <param name="eventId">The numeric last.fm event id</param>
-        public ShoutList eventGetShouts(string eventId)
+        public LastfmResponse<ShoutList> eventGetShouts(string eventId)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "event.getShouts");
@@ -23,7 +19,7 @@ namespace Lastfm
 
             var response = Execute<LastfmResponse<ShoutList>>(request);
 
-            return response.Data.Value;
+            return response.Data;
         }
 
         #endregion
@@ -34,13 +30,13 @@ namespace Lastfm
         ///  Get shouts for this event.
         /// </summary>
         /// <param name="eventId">The numeric last.fm event id</param>
-        public Event eventGetInfo(string eventId)
+        public LastfmResponse<Event> eventGetInfo(string eventId)
         {
             var request = new RestRequest(Method.GET);
             request.AddParameter("method", "event.getinfo");
             request.AddParameter("event", eventId);
 
-            return Execute<LastfmResponse<Event>>(request).Data.Value;
+            return Execute<LastfmResponse<Event>>(request).Data;
         }
 
         #endregion

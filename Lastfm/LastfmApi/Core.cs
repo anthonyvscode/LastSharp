@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using RestSharp;
-using Lastfm.Model;
+﻿using RestSharp;
 
 namespace Lastfm
 {
@@ -14,6 +9,7 @@ namespace Lastfm
         private readonly string _apiKey;
         private readonly string _secretKey;
         public int apiCalls;
+        public long DataCount { get; set; }
         private RestClient _client;
 
         /// <summary>
@@ -41,16 +37,19 @@ namespace Lastfm
         {
             request.AddParameter("api_key", _apiKey);
 
-            RestResponse<T> response = _client.Execute<T>(request);
+            var response = _client.Execute<T>(request);
             apiCalls++;
+            DataCount += response.RawBytes.Length;
             return response;
         }
 
         public RestResponse Execute(RestRequest request)
         {
             request.AddParameter("api_key", _apiKey, ParameterType.UrlSegment);
+            var response = _client.Execute(request);
             apiCalls++;
-            return _client.Execute(request);
+            DataCount += response.RawBytes.Length;
+            return response;
         }
     }
 }

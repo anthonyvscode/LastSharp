@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
+using RestSharp.Serializers;
 
 namespace Lastfm.Model
 {
     public class FanList
     {
-        public string artist { get; set; }
-        public List<Fan> topfans { get; set; }
+        public string Artist { get; set; }
+        [SerializeAs(Name = "topfans")]
+        public List<Fan> Fans { get; set; }
     }
 }

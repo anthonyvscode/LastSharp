@@ -1,14 +1,9 @@
 ﻿using System;
-using System.Text;
-using System.Collections.Generic;
-using System.Linq;
+using System.Xml.Linq;
+using Lastfm.Model;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Xml;
 using RestSharp;
 using RestSharp.Deserializers;
-using Lastfm.Model;
-using System.IO;
-using System.Xml.Linq;
 
 namespace Lastfm.Tests
 {
@@ -36,7 +31,7 @@ namespace Lastfm.Tests
             var output = d.Deserialize<LastfmResponse<EventsList>>(response);
 
             Assert.AreEqual(33, output.Value.Events.Count);
-            Assert.AreEqual("1295595", output.Value.Events[0].id);
+            Assert.AreEqual("1295595", output.Value.Events[0].Id);
         }
 
         [TestMethod]
@@ -82,7 +77,7 @@ namespace Lastfm.Tests
             var d = new XmlDeserializer();
             var output = d.Deserialize<LastfmResponse<EventsList>>(response);
 
-            Assert.AreEqual("Blur", output.Value.Events[2].headliner);
+            Assert.AreEqual("Blur", output.Value.Events[2].Headliner);
         }
     }
 }

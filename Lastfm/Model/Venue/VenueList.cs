@@ -1,16 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
+using RestSharp.Serializers;
 
 namespace Lastfm.Model
 {
     public class VenueList
     {
-        public string query {get; set;}
-        public string totalResults { get; set; }
-        public string startIndex { get; set; }        
-        public string itemsPerPage { get; set; }
-        public List<Venue> venuematches { get; set; }
+        public string Query { get; set; }
+        public string TotalResults { get; set; }
+        public string StartIndex { get; set; }
+        public string ItemsPerPage { get; set; }
+        [SerializeAs(Name = "venuematches")]
+        public List<Venue> Venues { get; set; }
     }
 }

@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace Lastfm.Model
 {
     public class ShoutList
     {
-        public int total { get; set; }
-        public List<Shout> shouts { get; set; }
+        public int Total { get; set; }
+        public List<Shout> Shouts { get; set; }
     }
 }

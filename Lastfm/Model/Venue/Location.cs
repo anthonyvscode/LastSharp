@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using RestSharp.Serializers;
+﻿using RestSharp.Serializers;
 
 namespace Lastfm.Model
 {
@@ -20,6 +16,6 @@ namespace Lastfm.Model
         [SerializeAs(Name = "lat")]
         public decimal? Latitude { get; set; }
         [SerializeAs(Name = "_long")]
-        public decimal? Longitude {get; set;}
+        public decimal? Longitude { get; set; }
     }
 }

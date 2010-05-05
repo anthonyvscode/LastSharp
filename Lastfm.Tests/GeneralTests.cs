@@ -1,14 +1,9 @@
 ﻿using System;
-using System.Text;
-using System.Collections.Generic;
-using System.Linq;
+using System.Xml.Linq;
+using Lastfm.Model;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Xml;
 using RestSharp;
 using RestSharp.Deserializers;
-using Lastfm.Model;
-using System.IO;
-using System.Xml.Linq;
 
 namespace Lastfm.Tests
 {
