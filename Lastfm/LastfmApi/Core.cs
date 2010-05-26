@@ -1,4 +1,5 @@
 ﻿using RestSharp;
+using RestSharp.Deserializers;
 
 namespace Lastfm
 {
@@ -8,9 +9,16 @@ namespace Lastfm
 
         private readonly string _apiKey;
         private readonly string _secretKey;
-        public int apiCalls;
+        /// <summary>
+        /// The number of requests that have been made by the current Client instance
+        /// </summary>
+        public int RequestCount { get; set; }
+        /// <summary>
+        /// The total Bytes returned from the requests made by the current Client instance
+        /// </summary>
         public long DataCount { get; set; }
-        private RestClient _client;
+
+        private RestClient _restClient;
 
         /// <summary>
         /// Initialize the library with only an API key.
@@ -19,7 +27,9 @@ namespace Lastfm
         public LastfmApi(string apiKey)
         {
             _apiKey = apiKey;
-            _client = new RestClient(BaseUrl);
+            _restClient = new RestClient(BaseUrl);
+            _restClient.ClearHandlers();
+            _restClient.AddHandler("application/xml", new XmlAttributeDeserializer());
         }
 
         /// <summary>
@@ -31,14 +41,23 @@ namespace Lastfm
         {
             _apiKey = apiKey;
             _secretKey = secretKey;
+            _restClient = new RestClient(BaseUrl);
+            _restClient.ClearHandlers();
+            _restClient.AddHandler("application/xml", new XmlAttributeDeserializer());
         }
 
+        /// <summary>
+        /// Creates a generic typed rest request.
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="request"></param>
+        /// <returns></returns>
         public RestResponse<T> Execute<T>(RestRequest request) where T : new()
         {
             request.AddParameter("api_key", _apiKey);
 
-            var response = _client.Execute<T>(request);
-            apiCalls++;
+            var response = _restClient.Execute<T>(request);
+            RequestCount++;
             DataCount += response.RawBytes.Length;
             return response;
         }
@@ -46,8 +65,8 @@ namespace Lastfm
         public RestResponse Execute(RestRequest request)
         {
             request.AddParameter("api_key", _apiKey, ParameterType.UrlSegment);
-            var response = _client.Execute(request);
-            apiCalls++;
+            var response = _restClient.Execute(request);
+            RequestCount++;
             DataCount += response.RawBytes.Length;
             return response;
         }

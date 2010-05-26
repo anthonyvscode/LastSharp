@@ -75,10 +75,6 @@
     <Compile Include="Utilities\Validation.cs" />
     <Compile Include="LastfmApi\Venues.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="bin\Newtonsoft.Json.dll" />
-    <Content Include="bin\RestSharp.dll" />
-  </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

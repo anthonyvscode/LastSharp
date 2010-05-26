@@ -316,6 +316,5 @@ namespace Lastfm
 
 
         #endregion
-
     }
 }

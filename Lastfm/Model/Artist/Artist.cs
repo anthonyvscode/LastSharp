@@ -2,23 +2,26 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using RestSharp.Serializers;
+using RestSharp.Deserializers;
 
 namespace Lastfm.Model
 {
     public class Artist
     {
-        [SerializeAs(Name = "name")]
+        [DeserializeAs(Name = "name")]
         public string Name { get; set; }
-        [SerializeAs(Name = "mbid")]
+        [DeserializeAs(Name = "mbid")]
         public string MusicBrainzID { get; set; }
-        [SerializeAs(Name = "url")]
+        [DeserializeAs(Name = "url")]
         public string Url { get; set; }
         //TODO: images.
-        public int streamable { get; set; }
-        public List<ArtistMini> similar { get; set; }
-        public List<ArtistTag> tags { get; set; }
-        [SerializeAs(Name = "bio")]
+
+        [DeserializeAs(Name = "streamable")]
+        public int Streamable { get; set; }
+        [DeserializeAs(Name = "similar")]
+        public List<ArtistMini> similar { get; set; } //TODO: Rename this when DK fixes his bug.
+        public List<ArtistTag> Tags { get; set; }
+        [DeserializeAs(Name = "bio")]
         public Bio Bio { get; set; }
     }
 

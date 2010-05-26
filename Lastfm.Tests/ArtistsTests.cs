@@ -58,7 +58,7 @@ namespace Lastfm.Tests
             var doc = XDocument.Load(xmlpath);
             var response = new RestResponse { Content = doc.ToString() };
 
-            var d = new XmlDeserializer();
+            var d = new XmlAttributeDeserializer();
             var output = d.Deserialize<LastfmResponse<Artist>>(response);
 
             Assert.AreEqual("Blur", output.Value.Name);
