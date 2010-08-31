@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="LastfmApi\Artists.cs" />
     <Compile Include="LastfmApi\Albums.cs" />
+    <Compile Include="LastfmApi\Geo.cs" />
     <Compile Include="LastfmApi\Core.cs" />
     <Compile Include="LastfmApi\Events.cs" />
     <Compile Include="Model\Artist\Artist.cs" />

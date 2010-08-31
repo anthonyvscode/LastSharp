@@ -27,7 +27,7 @@ namespace Lastfm.Tests
             var doc = XDocument.Load(xmlpath);
             var response = new RestResponse { Content = doc.ToString() };
 
-            var d = new XmlDeserializer();
+            var d = new XmlAttributeDeserializer();
             var output = d.Deserialize<LastfmResponse<EventsList>>(response);
 
             Assert.AreEqual(33, output.Value.Events.Count);
@@ -41,7 +41,7 @@ namespace Lastfm.Tests
             var doc = XDocument.Load(xmlpath);
             var response = new RestResponse { Content = doc.ToString() };
 
-            var d = new XmlDeserializer();
+            var d = new XmlAttributeDeserializer();
             var output = d.Deserialize<LastfmResponse<ImageList>>(response);
 
             Assert.AreEqual(50, output.Value.images.Count);
@@ -74,7 +74,7 @@ namespace Lastfm.Tests
             var doc = XDocument.Load(xmlpath);
             var response = new RestResponse { Content = doc.ToString() };
 
-            var d = new XmlDeserializer();
+            var d = new XmlAttributeDeserializer();
             var output = d.Deserialize<LastfmResponse<EventsList>>(response);
 
             Assert.AreEqual("Blur", output.Value.Events[2].Headliner);

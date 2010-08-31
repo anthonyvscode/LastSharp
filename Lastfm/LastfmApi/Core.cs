@@ -29,7 +29,7 @@ namespace Lastfm
             _apiKey = apiKey;
             _restClient = new RestClient(BaseUrl);
             _restClient.ClearHandlers();
-            _restClient.AddHandler("application/xml", new XmlAttributeDeserializer());
+            _restClient.AddHandler("*", new XmlAttributeDeserializer());
         }
 
         /// <summary>
@@ -43,7 +43,7 @@ namespace Lastfm
             _secretKey = secretKey;
             _restClient = new RestClient(BaseUrl);
             _restClient.ClearHandlers();
-            _restClient.AddHandler("application/xml", new XmlAttributeDeserializer());
+            _restClient.AddHandler("*", new XmlAttributeDeserializer());
         }
 
         /// <summary>
